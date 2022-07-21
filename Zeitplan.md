@@ -1,4 +1,4 @@
-| Normal | Left Aligned | Centered | Right Aligned |
+| Uhrzeit | Beschreibung | Centered | Right Aligned |
 | --------- | :----------- | :--------: | -------------:|
-| Cell 1 | Cell 2 | Cell 3 | Cell 4 |
-| Cell 5 | Cell 6 | Cell 7 | Cell 8 |
+| 08:30 - 09:00 | Willkommen + Bekanntgabe der Design Challenge - Entwerfen Sie eine Lieblingsapp für Studierende (2er-Teams aus Studierenden) | Cell 3 | Cell 4 |
+| 09:00 - 09:30 | Überblick | Cell 7 | Cell 8 |
