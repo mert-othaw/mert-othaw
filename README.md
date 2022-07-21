@@ -6,8 +6,9 @@
 * 1 Mobilgerät
 
 **Benötigte Software:**
-* Git-Zugangsdaten
-* MURAL * https://mural.co
+* Git-Zugangsdaten (PC)
+* MURAL https://mural.co (PC)
+* POP-APP (Mobilgerät)
 
 ## Step 1
 
