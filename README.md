@@ -5,6 +5,10 @@
 * 1 PC + Monitor
 * 1 Mobilgerät
 
+**Benötigte Software:**
+* Git-Zugangsdaten
+* MURAL * https://mural.co
+
 ## Step 1
 
 BLAB LBLALDLA
