@@ -3,7 +3,7 @@
 
 **Benötigte Hardware pro Gruppe:**
 * 1 PC + Monitor
-- 1 Mobilgerät
+* 1 Mobilgerät
 
 ## Step 1
 
