@@ -12,4 +12,4 @@
 | 14:00 - 14:15 | Kaffeepause |
 | 14:15 - 15:00 | Phase 6 - Testen |  mit der Feedbackgrid-Technik auf dem ausgewählten MURAL-Template („Feedback grid“ - www.mural.co) um das jeweilige Feedback zu den Prototypen durch eine Befragung/ein Interview des Nutzers festzuhalten |
 | 15:00 - 16:30 | Präsentieren der Ergebnisse | Zusammenfassung der Ergebnisse und kurze Vorstellung des entworfenen Prototypen "Lieblingsapp" in 3-5 Minuten (pro Gruppe) |
-| 16:30 - 17:00 | Ende | eingeplanter Puffer je nach Fortschritt der Gruppen |
+| 16:30 - 17:00 | Ende | eingeplanter Puffer je nach Fortschritt |
