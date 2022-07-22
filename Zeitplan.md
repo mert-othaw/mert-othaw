@@ -11,3 +11,5 @@
 | 13:00 - 14:00 | Phase 5 - Prototypen entwickeln/erstellen |  für das Prototyping wird das Mobilgerät mit der POP-APP von Marvel (https://marvelapp.com/pop) benötigt, um den Prototypen in der App zu entwerfen und abzuspeichern |
 | 14:00 - 14:15 | Kaffeepause |
 | 14:15 - 15:00 | Phase 6 - Testen |  mit der Feedbackgrid-Technik auf dem ausgewählten MURAL-Template („Feedback grid“ - www.mural.co) um das jeweilige Feedback zu den Prototypen durch eine Befragung/ein Interview des Nutzers festzuhalten |
+| 15:00 - 16:30 | Präsentieren der Ergebnisse | Zusammenfassung der Ergebnisse und kurze Vorstellung des entworfenen Prototypen "Lieblingsapp" in 3-5 Minuten (pro Gruppe) |
+| 16:30 - 17:00 | Ende | eingeplanter Puffer je nach Fortschritt der Gruppen |
