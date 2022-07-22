@@ -8,3 +8,4 @@
 | 11:00 - 11:30 | Phase 3 - Standpunkt definieren 2 |  (Rollentausch) Student 2 als Nutzer (Student 1 als Entwickler) |
 | 11:30 - 12:00 | Mittagspause |  
 | 12:00 - 13:00 | Phase 4 - Ideen finden/generieren | mit der Brainstorming-Technik werden Ideen auf dem ausgewählten MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co) generiert, priorisiert und festgehalten.  |
+| 13:00 - 14:00 | Phase 5 - Prototypen entwickeln/erstellen |  für das Prototyping wird das Mobilgerät mit der POP-APP von Marvel (https://marvelapp.com/pop) benötigt, um den Prototypen in der App zu entwerfen und abzuspeichern |
