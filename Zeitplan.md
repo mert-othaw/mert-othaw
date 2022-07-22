@@ -6,3 +6,5 @@
 | 10:00 - 10:30 | Phase 2 - Beobachten | mit Vorstellen einer Beispielmethode/Beispieltechnik (für die Phase Beobachten) für die Lieblingsapp |
 | 10:30 - 11:00 | Phase 3 - Standpunkt definieren 1 | Student 1 als Nutzer (Student 2 als Entwickler) - (+ mögliches Beispiel) |
 | 11:00 - 11:30 | Phase 3 - Standpunkt definieren 2 |  (Rollentausch) Student 2 als Nutzer (Student 1 als Entwickler) |
+| 11:30 - 12:00 | Mittagspause |  
+| 12:00 - 13:00 | Phase 4 - Ideen finden/generieren | mit der Brainstorming-Technik werden Ideen auf dem ausgewählten MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co) generiert, priorisiert und festgehalten.  |
