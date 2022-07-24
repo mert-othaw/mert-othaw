@@ -18,17 +18,17 @@
 Fahren Sie Ihren PC hoch und halten Ihr Mobilgerät bereit.
 
 ### Step 2
-Laden Sie sich Git bzw. GitHub auf Ihren PC und Ziehen sich anschließend die Dateien aus dem bereitgestellten Git-Archiv vollständig herunter um das Design Thinking Modul vollständig durchführen zu können.
+Laden Sie sich Git bzw. GitHub auf Ihren PC und Ziehen sich anschließend die Dateien aus dem bereitgestellten Git-Archiv vollständig herunter, um das Design Thinking Modul vollständig durchführen zu können.
 
 ### Step 3
-Besuchen Sie die Homepage von MURAL (https://www.mural.co/) und legen Sie einen kostenlosen Account an pro Team (2er-Gruppe) und bestätigen Sie Ihren Account mit Ihrer angegebenen E-Mail in Ihrem E-Mail Postfach.
+Besuchen Sie die Homepage von MURAL (https://www.mural.co/) und legen Sie einen kostenlosen Account an pro Team (2er-Gruppe) und bestätigen Sie Ihren Account mit Ihrer angegebenen E-Mail in Ihrem E-Mail-Postfach.
 
 ### Step 4
-Laden Sie die POP-App (Prototyping on Paper-App) von Marvel über den bereitgestellten QR-Code des Dozenten oder über folgenden Link (https://marvelapp.com/pop)  auf Ihr Mobilgerät.
-Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (Download on the App Store) aus. Diese App werden Sie in Phase 5 – Prototyp entwickeln benötigen um Ihren Prototypen zu entwerfen.
+Laden Sie die POP-App (Prototyping on Paper-App) von Marvel über den bereitgestellten QR-Code des Dozenten oder über folgenden Link (https://marvelapp.com/pop) auf Ihr Mobilgerät.
+Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (Download on the App Store) aus. Diese App werden Sie in Phase 5 – Prototyp entwickeln benötigen, um Ihren Prototypen zu entwerfen.
 
 ### Step 5
-Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking  mit den bereitgestellten Unterlagen anzueignen. 
+Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
 **Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
 
 ### Step 6
@@ -45,7 +45,7 @@ Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls 
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden.
 
 ### Step 9
-Für „Phase 5 - Prototypen entwickeln/erstellen“ nutzen Sie gemeinsam im 2er-Team für das Prototyping Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel um Ihren Prototypen zu entwerfen und abspeichern. (Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)
+Für „Phase 5 - Prototypen entwickeln/erstellen“ nutzen Sie gemeinsam im 2er-Team für das Prototyping Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel. um Ihren Prototypen zu entwerfen und abspeichern. (Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)
 
 ### Step 10
 In „Phase 6 – Testen“ (letzte Phase) eignet sich die Technik Feedbackgrid auf dem ausgewählten MURAL-Template („Feedback grid“ - www.mural.co) um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
@@ -55,7 +55,7 @@ Student 2 übernimmt die Rolle des Nutzers.
 Danach werden die beiden Rollen getauscht!
 Student 1 übernimmt die Rolle des Nutzers, Student 2 die Rolle des Entwicklers.
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten Beispiel-Template ("Feedbackgrid.pdf“).
-Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden um die Ergebnisse festzuhalten. 
+Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden, um die Ergebnisse festzuhalten. 
 (Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherte Datei Interviewing.pdf ansehen.)
 
 ### Step 11
