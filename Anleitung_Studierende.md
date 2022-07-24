@@ -29,7 +29,7 @@ Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (D
 
 ### Step 5
 Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
-**Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
+**Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans (siehe „Zeitplan.md") sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
 
 ### Step 6
 Die Design-Challenge ist bekannt „Entwerfen Sie Ihre bzw. eine Lieblingsapp für Studierende“. 
