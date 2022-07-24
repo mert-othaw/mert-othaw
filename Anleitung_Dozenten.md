@@ -31,6 +31,6 @@ Empfehlung an die Einrichtung des Screens für eine erfolgreiche Durchführung d
 -	Stoppuhr 
 -	Text
 -	QR-Codes für Download für die Software Git, GitHub oder GitHub-Link auf den PC
--	QR-Codes für Download POP-App (App fürs Prototyping) auf das Mobilgerät.
+-	QR-Code für Download POP-App (App fürs Prototyping) auf das Mobilgerät.
 -	QR-Code mit Link zur Homepage für MURAL (mit oder ohne empfohlene Templates)
 -	Umfrage (z.B. aktueller Stand der Teams)
