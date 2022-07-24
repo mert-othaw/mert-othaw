@@ -76,4 +76,4 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 14:00 Uhr – 14:15 Uhr – **Verkünden der Kaffeepause**
 
 ### Step 14
-14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: "Feedbackgrid.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
