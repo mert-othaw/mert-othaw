@@ -43,4 +43,6 @@ Wählen Sie die benötigten **Widgets** aud: (Info: In den Einstellungen gibt es
 -	**Clock-Widget** für die Anzeige der aktuellen Uhrzeit.
 -	**Stopwatch-Widget** für das Stoppen der Zeit z.B. für die Schlusspräsentation der Ergebnisse am Ende des Workshops.
 
-Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren. (siehe Beispiele: **Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
+Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren. 
+
+(siehe Beispiele: **Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
