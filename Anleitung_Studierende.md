@@ -37,7 +37,7 @@ Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beide
 
 ### Step 7
 Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht es im Design Thinking darum, das Problem zu lösen. 
-Dies erfolgt beim Design Thinking in den Phasen  4-6: „Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen.
+Dies erfolgt beim Design Thinking in den Phasen 4-6: „Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen.
 
 ### Step 8
 In „Phase 4 – Ideen generieren“ werden gemeinsam im 2er-Team mit der Brainstorming-Technik, Ideen auf dem ausgewählten MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co) generiert, priorisiert und festgehalten. 
