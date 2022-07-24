@@ -45,7 +45,7 @@ Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls 
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden.
 
 ### Step 9
-*13:00 Uhr - 14:00 Uhr* - Für „Phase 5 - Prototypen entwickeln/erstellen“ nutzen Sie gemeinsam im 2er-Team für das Prototyping Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel. um Ihren Prototypen zu entwerfen und abspeichern. (Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)
+*13:00 Uhr - 14:00 Uhr* - Für **„Phase 5 - Prototypen entwickeln/erstellen“** nutzen Sie **gemeinsam im 2er-Team** für das Prototyping Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel. um Ihren Prototypen zu entwerfen und abspeichern. (Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)
 
 ### Step 10
 In „Phase 6 – Testen“ (letzte Phase) eignet sich die Technik Feedbackgrid auf dem ausgewählten MURAL-Template („Feedback grid“ - www.mural.co) um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
