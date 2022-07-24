@@ -9,7 +9,7 @@
 **Benötigte Software:**
 * Git-Zugangsdaten (PC)
 * MURAL https://mural.co (PC)
-* Homepage von https://classroomscreen.com/ (PC)
+* Classroomscreen https://classroomscreen.com/ (PC)
 * POP-APP https://marvelapp.com/pop (Mobilgerät)
 
 
