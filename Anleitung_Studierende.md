@@ -48,12 +48,13 @@ Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden
 *13:00 Uhr - 14:00 Uhr* - Für **„Phase 5 - Prototypen entwickeln/erstellen“** nutzen Sie **gemeinsam im 2er-Team** für das Prototyping **Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel**, um Ihren Prototypen zu entwerfen und abspeichern. *(Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)*
 
 ### Step 10
-In „Phase 6 – Testen“ (letzte Phase) eignet sich die Technik Feedbackgrid auf dem ausgewählten MURAL-Template („Feedback grid“ - www.mural.co) um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
+*14:15 Uhr - 15:00 Uhr* - In **„Phase 6 – Testen“ (letzte Phase)** eignet sich die Technik Feedbackgrid auf dem ausgewählten **MURAL-Template („Feedback grid“ - www.mural.co)** um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
+
 In dieser Phase wechseln sich die Studierenden in Ihrer Rolle ab: 
-Student 1 übernimmt die Rolle des Entwicklers.
-Student 2 übernimmt die Rolle des Nutzers.
+* Student 1 übernimmt die Rolle des Entwicklers.
+* Student 2 übernimmt die Rolle des Nutzers.
 Danach werden die beiden Rollen getauscht!
-Student 1 übernimmt die Rolle des Nutzers, Student 2 die Rolle des Entwicklers.
+* Student 1 übernimmt die Rolle des Nutzers, Student 2 die Rolle des Entwicklers.
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten Beispiel-Template ("Feedbackgrid.pdf“).
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden, um die Ergebnisse festzuhalten. 
 (Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherte Datei Interviewing.pdf ansehen.)
