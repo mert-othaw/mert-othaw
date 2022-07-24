@@ -12,7 +12,7 @@
 * POP-APP https://marvelapp.com/pop (Mobilgerät)
 
 
-## Führen Sie folgende Schritte nacheinander durch
+## Führen Sie folgende Schritte nacheinander durch und achten Sie dabei auf den geteilten Classroomscreen Ihres Dozenten.
 
 ### Step 1
 Fahren Sie Ihren PC hoch und halten Ihr Mobilgerät bereit.
