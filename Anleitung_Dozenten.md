@@ -64,4 +64,5 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 11:00 Uhr – 11:30 Uhr – **Phase 3 – Standpunkt definieren 2: Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 10
-11:30 Uhr – 12:00 Uhr – Verkünden der Mittagspause
+11:30 Uhr – 12:00 Uhr – **Verkünden der Mittagspause**
+
