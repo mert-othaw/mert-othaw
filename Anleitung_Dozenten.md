@@ -52,4 +52,7 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 09:00 Uhr – 09:30 Uhr: Video oder Powerpoint abspielen/teilen um ein Überblick und Grundverständnis für Design Thinking (Design-Challenge + 6 Phasen des Design Thinking) zu vermitteln. 
 
 ### Step 6
-09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (**siehe Zeitplan.md**) auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
+09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
+
+### Step 7
+10:00 Uhr – 10:30 Uhr – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
