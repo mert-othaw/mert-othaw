@@ -26,7 +26,7 @@ Besuchen Sie die Homepage von Classroomscreen: https://classroomscreen.com/.
 Auf der Homepage können Sie die Option „Launch now“ (ohne Registrierung) und direkt loslegen oder die Option „Or sign up for free“ (mit Registrierung) wählen. 
 
 Empfehlung an die Einrichtung des Screens für eine erfolgreiche Durchführung des hybriden Design Thinking Moduls sind die Benutzung folgender „Widgets“: 
--	Uhrzeit
+*	Uhrzeit
 -	Timer, der abläuft mit der eingeplanten Zeit für einen regulierten Ablauf des Design Thinking Moduls (siehe Zeitplan.md)
 -	Stoppuhr 
 -	Text
