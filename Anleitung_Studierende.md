@@ -40,7 +40,7 @@ Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht e
 Dies erfolgt beim Design Thinking in den Phasen 4 - 6: **„Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen".**
 
 ### Step 8
-*12:00 Uhr - 13:00 Uhr* In **„Phase 4 – Ideen generieren“** werden **gemeinsam im 2er-Team** mit der Brainstorming-Technik, Ideen auf dem ausgewählten **MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co)** generiert, priorisiert und festgehalten. 
+*12:00 Uhr - 13:00 Uhr* - In **„Phase 4 – Ideen generieren“** werden **gemeinsam im 2er-Team** mit der Brainstorming-Technik, Ideen auf dem ausgewählten **MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co)** generiert, priorisiert und festgehalten. 
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten **Beispiel-Template ("Ideen generieren und priorisieren.pdf“)**.
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden.
 
