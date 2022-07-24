@@ -33,7 +33,7 @@ Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (D
 
 ### Step 6
 Die Design-Challenge ist bekannt „Entwerfen Sie Ihre bzw. eine Lieblingsapp für Studierende“. 
-Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen **„Phase 1 – Verstehen“** *09:30 Uhr - 10:00 Uhr* und **„Phase 2 – Beobachten“** *10:00 Uhr - 10:30 Uhr* und anschließend in **„Phase 3 – Standpunkt definieren 1 + 2“** abwechselnd im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten.
+Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen **„Phase 1 – Verstehen“** *09:30 Uhr - 10:00 Uhr* und **„Phase 2 – Beobachten“** *10:00 Uhr - 10:30 Uhr* und anschließend in **„Phase 3 – Standpunkt definieren 1 + 2“** *10:30 Uhr - 11:30 Uhr* **abwechselnd** im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten (siehe **„Zeitplan.md"**).
 
 ### Step 7
 Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht es im Design Thinking darum, das Problem zu lösen. 
