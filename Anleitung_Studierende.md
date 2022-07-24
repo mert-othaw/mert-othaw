@@ -53,8 +53,9 @@ Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden
 In dieser Phase wechseln sich die Studierenden in Ihrer Rolle ab: 
 * Student 1 übernimmt die Rolle des Entwicklers.
 * Student 2 übernimmt die Rolle des Nutzers.
-Danach werden die beiden Rollen getauscht!
+* Danach werden die beiden Rollen getauscht!
 * Student 1 übernimmt die Rolle des Nutzers, Student 2 die Rolle des Entwicklers.
+
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten Beispiel-Template ("Feedbackgrid.pdf“).
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden, um die Ergebnisse festzuhalten. 
 (Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherte Datei Interviewing.pdf ansehen.)
