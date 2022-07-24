@@ -36,7 +36,7 @@ Die Design-Challenge ist bekannt „Entwerfen Sie Ihre bzw. eine Lieblingsapp f�
 Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen „Phase 1 – Verstehen“ und „Phase 2 – Beobachten“ und anschließend in „Phase 3 – Standpunkt definieren“ abwechselnd im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten.
 
 ### Step 7
-Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist geht es im Design Thinking darum, das Problem zu lösen. 
+Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht es im Design Thinking darum, das Problem zu lösen. 
 Dies erfolgt beim Design Thinking in den Phasen  4-6: „Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen.
 
 ### Step 8
