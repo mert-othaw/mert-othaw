@@ -2,7 +2,7 @@
 
 # **Anleitung für Dozenten**
 
-**Benötigte Hardware pro Gruppe:**
+**Benötigte Hardware:**
 * 1 PC + Monitor
 * 1 Mobilgerät
 
