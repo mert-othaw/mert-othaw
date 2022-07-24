@@ -51,8 +51,8 @@ Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden
 *14:15 Uhr - 15:00 Uhr* - In **„Phase 6 – Testen“ (letzte Phase)** eignet sich die Technik Feedbackgrid auf dem ausgewählten **MURAL-Template („Feedback grid“ - www.mural.co)** um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
 
 **In dieser Phase wechseln sich die Studierenden in Ihrer Rolle ab:** 
-* Student 1 übernimmt die Rolle des Entwicklers.
-* Student 2 übernimmt die Rolle des Nutzers.
+* **Student 1** übernimmt die Rolle des **Entwicklers**.
+* **Student 2** übernimmt die Rolle des **Nutzers**.
 * Danach werden die beiden Rollen getauscht!
 * Student 1 übernimmt die Rolle des Nutzers, Student 2 die Rolle des Entwicklers.
 
