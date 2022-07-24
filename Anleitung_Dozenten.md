@@ -56,3 +56,6 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 
 ### Step 7
 10:00 Uhr – 10:30 Uhr – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+
+### Step 8
+10:30 Uhr – 11:00 Uhr – **Phase 3 – Standpunkt definieren 1:** **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
