@@ -34,3 +34,14 @@ Empfehlung an die Einrichtung des Screens für eine erfolgreiche Durchführung d
 -	QR-Code für Download POP-App (App fürs Prototyping) auf das Mobilgerät.
 -	QR-Code mit Link zur Homepage für MURAL (mit oder ohne empfohlene Templates)
 -	Umfrage (z.B. aktueller Stand der Teams)
+
+Wählen Sie die benötigten Widgets aus. (Info: In den Einstellungen gibt es die Möglichkeit unterschiedliche Sprachen für die Widgets auszuwählen, wie z.B. „German“ für eine deutschsprachige Elementauswahl der Widgets.)
+-	Poll-Widget für mögliche Umfragen (aktueller Stand usw.).
+-	QR-Code-Widget für Download der benötigten Software für PC und Mobilgerät
+  - sowie der Link auf Homepage von MURAL( https://mural.co/ )
+  - z.B. für Referenzquellen oder Videos zum besseren Verständnis der Design Thinking Phasen und Techniken.
+-	Text-Widget für Angabe von Anweisungen, Verlauf usw.
+-	Timer-Widget für die Einhaltung des Zeitplans und die jeweiligen Techniken der unterschiedlichen Phasen des Design Thinkings.
+-	Clock-Widget für die Anzeige der aktuellen Uhrzeit.
+-	Stopwatch-Widget für das Stoppen der Zeit z.B. für die Schlusspräsentation der Ergebnisse am Ende des Workshops.
+
