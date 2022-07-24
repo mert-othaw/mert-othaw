@@ -46,4 +46,10 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 *Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren.* (**Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
 
 ### Step 4
-| 08:30 Uhr – 09:00 Uhr: | **Willkommen der Studierenden** mit Bekanntgabe der Design Challenge: „Entwerfen Sie eine Lieblingsapp für Studierende bzw. für Sie als Student“ und das Bilden der Gruppen (2er-Teams). 
+08:30 Uhr – 09:00 Uhr: **Willkommen der Studierenden** mit Bekanntgabe der Design Challenge: „Entwerfen Sie eine Lieblingsapp für Studierende bzw. für Sie als Student“ und das Bilden der Gruppen (2er-Teams). 
+
+### Step 5
+09:00 Uhr – 09:30 Uhr: Video oder Powerpoint abspielen/teilen um ein Überblick und Grundverständnis für Design Thinking (Design-Challenge + 6 Phasen des Design Thinking) zu vermitteln. 
+
+### Step 6
+09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (**siehe Zeitplan.md**) auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
