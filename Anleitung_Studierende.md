@@ -28,7 +28,7 @@ Laden Sie die POP-App (Prototyping on Paper-App) von Marvel über den bereitgest
 Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (Download on the App Store) aus. Diese App werden Sie in Phase 5 – Prototyp entwickeln benötigen, um Ihren Prototypen zu entwerfen.
 
 ### Step 5
-(*09:00 Uhr - 09:30 Uhr*) Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
+*09:00 Uhr - 09:30 Uhr*: Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
 **Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans (siehe „Zeitplan.md") sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
 
 ### Step 6
