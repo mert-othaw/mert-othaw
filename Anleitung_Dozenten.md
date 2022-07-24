@@ -27,7 +27,7 @@ Auf der Homepage können Sie die Option „Launch now“ (ohne Registrierung) un
 
 Empfehlung an die Einrichtung des Screens für eine erfolgreiche Durchführung des hybriden Design Thinking Moduls sind die Benutzung folgender „Widgets“: 
 -	Uhrzeit
--	Timer, der abläuft mit der eingeplanten Zeit für einen regulierten Ablauf des Design Thinking Moduls (siehe Zeitplan.md)
+-	Timer, der abläuft mit der eingeplanten Zeit für einen regulierten Ablauf des Design Thinking Moduls (siehe „Zeitplan.md")
 -	Stoppuhr 
 -	Text
 -	QR-Codes für Download für die Software Git, GitHub oder GitHub-Link auf den PC
@@ -52,28 +52,28 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 09:00 Uhr – 09:30 Uhr: Video oder Powerpoint abspielen/teilen um ein Überblick und Grundverständnis für Design Thinking (Design-Challenge + 6 Phasen des Design Thinking) zu vermitteln. 
 
 ### Step 6
-09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
+09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
 
 ### Step 7
-10:00 Uhr – 10:30 Uhr – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+10:00 Uhr – 10:30 Uhr – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 8
-10:30 Uhr – 11:00 Uhr – **Phase 3 – Standpunkt definieren 1:** **Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+10:30 Uhr – 11:00 Uhr – **Phase 3 – Standpunkt definieren 1:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 9
-11:00 Uhr – 11:30 Uhr – **Phase 3 – Standpunkt definieren 2: Timer-Widget von 30 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+11:00 Uhr – 11:30 Uhr – **Phase 3 – Standpunkt definieren 2: Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 10
 11:30 Uhr – 12:00 Uhr – **Verkünden der Mittagspause**
 
 ### Step 11
-12:00 Uhr – 13:00 Uhr – **Phase 4 – Ideen finden/generieren:** mit Brainstorming-Technik; MURAL-Template (www.mural.co) mit der Bezeichnung **„Brainstorm & idea prioritization"** (siehe Beispiel: "Ideen generieren und priorisieren.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die Studierenden das **„Brainstorm & idea prioritization“-Template von Mural** zur Verfügung haben. **Timer-Widget von 60 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+12:00 Uhr – 13:00 Uhr – **Phase 4 – Ideen finden/generieren:** mit Brainstorming-Technik; MURAL-Template (www.mural.co) mit der Bezeichnung **„Brainstorm & idea prioritization"** (siehe Beispiel: "Ideen generieren und priorisieren.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die Studierenden das **„Brainstorm & idea prioritization“-Template von Mural** zur Verfügung haben. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 12
-13:00 Uhr – 14:00 Uhr – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. **Timer-Widget von 60 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen
+13:00 Uhr – 14:00 Uhr – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen
 
 ### Step 13
 14:00 Uhr – 14:15 Uhr – **Verkünden der Kaffeepause**
 
 ### Step 14
-14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
+14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
