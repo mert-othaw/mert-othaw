@@ -70,4 +70,7 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 12:00 Uhr – 13:00 Uhr – **Phase 4 – Ideen finden/generieren:** mit Brainstorming-Technik; MURAL-Template (www.mural.co) mit der Bezeichnung **„Brainstorm & idea prioritization"** (siehe Beispiel: "Ideen generieren und priorisieren.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die Studierenden das **„Brainstorm & idea prioritization“-Template von Mural** zur Verfügung haben. **Timer-Widget von 60 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 12
-13:00 Uhr – 14:00 Uhr – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. Umfrage mit dem Poll-Widget in Classroomscreen starten, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. Timer-Widget von 60 Minuten (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen
+13:00 Uhr – 14:00 Uhr – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. **Timer-Widget von 60 Minuten** (siehe Zeitplan.md) erneut am Classroomscreen-Bildschirm ablaufen lassen
+
+### Step 13
+14:00 Uhr – 14:15 Uhr – Verkünden der Kaffeepause
