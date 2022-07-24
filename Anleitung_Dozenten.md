@@ -77,3 +77,9 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 
 ### Step 14
 14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+
+### Step 15
+15:00 Uhr – 16:30 Uhr: **Präsentation/Vorstellung der Ergebnisse (bzw. die entworfenen Prototypen) von den Studierendengruppen** in 3-5 Minuten pro Gruppe (2er-Team). **Stopwatch-Widget** pro Gruppe am Classroomscreen-Bildschirm starten um die maximalen, verfügbaren 5 Minuten einzuhalten – optional **Timer-Widget von 5 Minuten** erneut am Classroomscreen-Bildschirm ablaufen lassen, anstatt **Stopwatch-Widget**.
+
+### Step 16
+16:30 Uhr – 17:00 Uhr: eingeplanter Zeitpuffer (falls nötig), ansonsten **Verabschiedung der Studierenden und Beendigung des Moduls** gegeben falls mit einer letzten **Umfrage in Classroomscreen mit dem Poll-Widget**, ob die Studierenden sich neue digitale Technologiekompetenzen aneignen konnten oder nicht (Ja/Nein) – oder ob die Studierenden Spaß hatten oder nicht (Ja/Nein).
