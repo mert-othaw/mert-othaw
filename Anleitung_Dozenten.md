@@ -35,7 +35,7 @@ Empfehlung an die Einrichtung des Screens für eine erfolgreiche Durchführung d
 -	QR-Code mit Link zur Homepage für MURAL (mit oder ohne empfohlene Templates)
 -	Umfrage (z.B. aktueller Stand der Teams)
 
-Wählen Sie die benötigten **Widgets** aud: (*Info: In den Einstellungen gibt es die Möglichkeit unterschiedliche Sprachen für die Widgets auszuwählen, wie z.B. „German“ für eine deutschsprachige Elementauswahl der Widgets.*)
+Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt es die Möglichkeit unterschiedliche Sprachen für die Widgets auszuwählen, wie z.B. „German“ für eine deutschsprachige Elementauswahl der Widgets.*)
 -	**Poll-Widget** für mögliche Umfragen (aktueller Stand usw.).
 -	**QR-Code-Widget** für Download der benötigten Software für PC und Mobilgerät, sowie der Link auf die Homepage von MURAL (https://mural.co/) oder z.B. für Referenzquellen oder Videos zum besseren Verständnis der Design Thinking Phasen und Techniken.
 -	**Text-Widget** für Angabe von Anweisungen, Verlauf usw.
@@ -43,4 +43,4 @@ Wählen Sie die benötigten **Widgets** aud: (*Info: In den Einstellungen gibt e
 -	**Clock-Widget** für die Anzeige der aktuellen Uhrzeit.
 -	**Stopwatch-Widget** für das Stoppen der Zeit z.B. für die Schlusspräsentation der Ergebnisse am Ende des Workshops.
 
-Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren. (**Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
+*Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren.* (**Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
