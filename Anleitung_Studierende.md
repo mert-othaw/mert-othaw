@@ -58,7 +58,7 @@ Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden
 
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten **Beispiel-Template ("Feedbackgrid.pdf“)**.
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden, um die Ergebnisse festzuhalten. 
-*(Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherte Datei **„Interviewing.pdf"** ansehen.)*
+*(Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherten Datei **„Interviewing.pdf"** ansehen.)*
 
 ### Step 11
 *15:00 Uhr - 16:30 Uhr* - Fassen Sie Ihre Ergebnisse im Team zusammen und **Präsentieren Sie Ihre Ergebnisse bzw. Stellen Sie Ihren Prototypen in 3-5 Minuten (pro Team) kurz vor**.
