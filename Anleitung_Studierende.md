@@ -37,8 +37,8 @@ The design challenge is known as "Design a favorite app for students".
 For this reason, you only need to learn the theory for the first two phases **"Phase 1 - Understand "** *(Planned time: 30 minutes)* and **"Phase 2 - Observe "** *(Planned time: 30 minutes)* and then in **"Phase 3 - Define point of view 1 + 2 "** *( Planned time: 30 minutes each)* ** take turns** in the team to define your point of view on the design challenge and write down your defined point of view on a paper (see "Schedule.md").
 
 ### Step 7
-After the problem or the design challenge to be solved is understood, design thinking is about **solving the problem**. 
-This is done in design thinking in phases 4 - 6: **"Phase 4 - Ideate, Phase 5 - Prototype, Phase 6 - Test. "**.
+After the problem or the design challenge that needs to be solved is understood, it is about **solving the problem**. 
+This is done in phases 4 - 6 of design thinking: **"Phase 4 - Ideate, Phase 5 - Prototype, Phase 6 - Test. "**.
 
 ### Step 8
 *(Planned time: 60 minutes)* - In **"Phase 4 - Ideate "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **MURAL template ("Brainstorm & idea prioritization" - www.mural.co)**. 
