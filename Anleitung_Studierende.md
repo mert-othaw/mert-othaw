@@ -28,27 +28,27 @@ Laden Sie die POP-App (Prototyping on Paper-App) von Marvel über den bereitgest
 Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (Download on the App Store) aus. Diese App werden Sie in Phase 5 – Prototyp entwickeln benötigen, um Ihren Prototypen zu entwerfen.
 
 ### Step 5
-*09:00 Uhr - 09:30 Uhr* - Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
+*(Eingeplante Zeit: 30 Minuten)* - Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
 **Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans (siehe „Zeitplan.md") sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
 
 ### Step 6
 Die Design-Challenge ist bekannt „Entwerfen Sie Ihre bzw. eine Lieblingsapp für Studierende“. 
-Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen **„Phase 1 – Verstehen“** *(09:30 Uhr - 10:00 Uhr)* und **„Phase 2 – Beobachten“** *(10:00 Uhr - 10:30 Uhr)* und anschließend in **„Phase 3 – Standpunkt definieren 1 + 2“** *(10:30 Uhr - 11:30 Uhr)* **abwechselnd** im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten (siehe „Zeitplan.md").
+Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen **„Phase 1 – Verstehen“** *(Eingeplante Zeit: 30 Minuten)* und **„Phase 2 – Beobachten“** *(Eingeplante Zeit: 30 Minuten)* und anschließend in **„Phase 3 – Standpunkt definieren 1 + 2“** *(Eingeplante Zeit: jeweils 30 Minuten)* **abwechselnd** im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten (siehe „Zeitplan.md").
 
 ### Step 7
 Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht es im Design Thinking darum, **das Problem zu lösen**. 
 Dies erfolgt beim Design Thinking in den Phasen 4 - 6: **„Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen".**
 
 ### Step 8
-*12:00 Uhr - 13:00 Uhr* - In **„Phase 4 – Ideen generieren“** werden **gemeinsam im 2er-Team** mit der Brainstorming-Technik, Ideen auf dem ausgewählten **MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co)** generiert, priorisiert und festgehalten. 
+*(Eingeplante Zeit: 60 Minuten)* - In **„Phase 4 – Ideen generieren“** werden **gemeinsam im 2er-Team** mit der Brainstorming-Technik, Ideen auf dem ausgewählten **MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co)** generiert, priorisiert und festgehalten. 
 Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten **Beispiel-Template ("Ideen generieren und priorisieren.pdf“)**.
 Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden.
 
 ### Step 9
-*13:00 Uhr - 14:00 Uhr* - Für **„Phase 5 - Prototypen entwickeln/erstellen“** nutzen Sie **gemeinsam im 2er-Team** für das Prototyping **Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel**, um Ihren Prototypen zu entwerfen und abspeichern. *(Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)*
+*(Eingeplante Zeit: 60 Minuten)* - Für **„Phase 5 - Prototypen entwickeln/erstellen“** nutzen Sie **gemeinsam im 2er-Team** für das Prototyping **Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel**, um Ihren Prototypen zu entwerfen und abspeichern. *(Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)*
 
 ### Step 10
-*14:15 Uhr - 15:00 Uhr* - In **„Phase 6 – Testen“ (letzte Phase)** eignet sich die Technik Feedbackgrid auf dem ausgewählten **MURAL-Template („Feedback grid“ - www.mural.co)** um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
+*(Eingeplante Zeit: 45 Minuten)* - In **„Phase 6 – Testen“ (letzte Phase)** eignet sich die Technik Feedbackgrid auf dem ausgewählten **MURAL-Template („Feedback grid“ - www.mural.co)** um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
 
 **In dieser Phase wechseln sich die Studierenden in Ihrer Rolle ab:** 
 * **Student 1** übernimmt die Rolle des **Entwicklers**.
@@ -61,7 +61,7 @@ Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden
 *(Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherten Datei **„Interviewing.pdf"** ansehen.)*
 
 ### Step 11
-*15:00 Uhr - 16:30 Uhr* - Fassen Sie Ihre Ergebnisse im Team zusammen und **Präsentieren Sie Ihre Ergebnisse bzw. Stellen Sie Ihren Prototypen in 3-5 Minuten (pro Team) kurz vor**.
+*(Eingeplante Zeit: 90 Minuten)* - Fassen Sie Ihre Ergebnisse im Team zusammen und **Präsentieren Sie Ihre Ergebnisse bzw. Stellen Sie Ihren Prototypen in 3-5 Minuten (pro Team) kurz vor**.
 
 
 
