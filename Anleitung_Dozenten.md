@@ -46,40 +46,40 @@ Wählen Sie die benötigten **Widgets** aus: (*Info: In den Einstellungen gibt e
 *Falls es zu Schwierigkeiten bei der Umsetzung kommt, können Sie sich an den Beispiel-Screenshots zur Einrichtung des Classroomscreens orientieren.* (**Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes für MURAL + Download der POP APP auf Mobilgerät.png, Umfrageoption_in_Classroom_Beispiel.png**)
 
 ### Step 4
-08:30 Uhr – 09:00 Uhr: **Willkommen der Studierenden** mit Bekanntgabe der Design Challenge: „Entwerfen Sie eine Lieblingsapp für Studierende bzw. für Sie als Student“ und das Bilden der Gruppen (2er-Teams). 
+30 Minuten: **Willkommen der Studierenden** mit Bekanntgabe der Design Challenge: „Entwerfen Sie eine Lieblingsapp für Studierende bzw. für Sie als Student“ und das Bilden der Gruppen (2er-Teams). 
 
 ### Step 5
-09:00 Uhr – 09:30 Uhr: Video oder Powerpoint abspielen/teilen um ein **Überblick und Grundverständnis für Design Thinking** (Design-Challenge + 6 Phasen des Design Thinking) zu vermitteln. 
+30 Minuten: Video oder Powerpoint abspielen/teilen um ein **Überblick und Grundverständnis für Design Thinking** (Design-Challenge + 6 Phasen des Design Thinking) zu vermitteln. 
 
 ### Step 6
-09:30 Uhr – 10:00 Uhr - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
+30 Minuten - **Phase 1 – Verstehen:** Classroomscreen-Bilschirm teilen und **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") auf Bildschirm einrichten und ablaufen lassen, damit die Studierenden die Zeit im Auge behalten.
 
 ### Step 7
-10:00 Uhr – 10:30 Uhr – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+30 Minuten – **Phase 2 – Beobachten:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 8
-10:30 Uhr – 11:00 Uhr – **Phase 3 – Standpunkt definieren 1:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+30 Minuten – **Phase 3 – Standpunkt definieren 1:** **Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 9
-11:00 Uhr – 11:30 Uhr – **Phase 3 – Standpunkt definieren 2: Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+30 Minuten – **Phase 3 – Standpunkt definieren 2: Timer-Widget von 30 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 10
-11:30 Uhr – 12:00 Uhr – **Verkünden der Mittagspause**
+30 Minuten – **Verkünden der Mittagspause**
 
 ### Step 11
-12:00 Uhr – 13:00 Uhr – **Phase 4 – Ideen finden/generieren:** mit Brainstorming-Technik; MURAL-Template (www.mural.co) mit der Bezeichnung **„Brainstorm & idea prioritization"** (siehe Beispiel: "Ideen generieren und priorisieren.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die Studierenden das **„Brainstorm & idea prioritization“-Template von Mural** zur Verfügung haben. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+60 Minuten – **Phase 4 – Ideen finden/generieren:** mit Brainstorming-Technik; MURAL-Template (www.mural.co) mit der Bezeichnung **„Brainstorm & idea prioritization"** (siehe Beispiel: "Ideen generieren und priorisieren.pdf) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die Studierenden das **„Brainstorm & idea prioritization“-Template von Mural** zur Verfügung haben. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 12
-13:00 Uhr – 14:00 Uhr – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen
+60 Minuten – **Phase 5 – Prototypen entwickeln/erstellen:** Die Studierenden entwerfen Ihren Prototypen mit der POP-APP von Marvel auf Ihrem Mobilgerät und speichern diesen dort ab. **Umfrage mit dem Poll-Widget in Classroomscreen starten**, um zu prüfen, ob die App bei den Studierenden funktioniert, falls nicht sollte der Prototyp auf einem Blatt Papier dargestellt werden. **Timer-Widget von 60 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen
 
 ### Step 13
-14:00 Uhr – 14:15 Uhr – **Verkünden der Kaffeepause**
+15 Minuten – **Verkünden der Kaffeepause**
 
 ### Step 14
-14:15 Uhr – 15:00 Uhr – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
+45 Minuten – **Phase 6 – Testen:** **mit dem Feedbackgrid;** MURAL-Template (www.mural.co) mit der Bezeichnung **„Feedbackgrid"** (siehe Beispiel: **"Feedbackgrid.pdf"**) zur Hand haben und **Umfrage mit dem Poll-Widget in Classroomscreen starten,** um zu prüfen, ob die Studierenden das **„Feedbackgrid“-Template von Mural** zur Verfügung haben. **Timer-Widget von 45 Minuten** (siehe „Zeitplan.md") erneut am Classroomscreen-Bildschirm ablaufen lassen.
 
 ### Step 15
-15:00 Uhr – 16:30 Uhr: **Präsentation/Vorstellung der Ergebnisse (bzw. die entworfenen Prototypen) von den Studierendengruppen** in 3-5 Minuten pro Gruppe (2er-Team). **Stopwatch-Widget** pro Gruppe am Classroomscreen-Bildschirm starten um die maximalen, verfügbaren 5 Minuten einzuhalten – optional **Timer-Widget von 5 Minuten** erneut am Classroomscreen-Bildschirm ablaufen lassen, anstatt **Stopwatch-Widget**.
+90 Minuten: **Präsentation/Vorstellung der Ergebnisse (bzw. die entworfenen Prototypen) von den Studierendengruppen** in 3-5 Minuten pro Gruppe (2er-Team). **Stopwatch-Widget** pro Gruppe am Classroomscreen-Bildschirm starten um die maximalen, verfügbaren 5 Minuten einzuhalten – optional **Timer-Widget von 5 Minuten** erneut am Classroomscreen-Bildschirm ablaufen lassen, anstatt **Stopwatch-Widget**.
 
 ### Step 16
-16:30 Uhr – 17:00 Uhr: eingeplanter Zeitpuffer (falls nötig), ansonsten **Verabschiedung der Studierenden und Beendigung des Moduls** gegeben falls mit einer letzten **Umfrage in Classroomscreen mit dem Poll-Widget**, ob die Studierenden sich neue digitale Technologiekompetenzen aneignen konnten oder nicht (Ja/Nein) – oder ob die Studierenden Spaß hatten oder nicht (Ja/Nein).
+30 Minuten: eingeplanter Zeitpuffer (falls nötig), ansonsten **Verabschiedung der Studierenden und Beendigung des Moduls** gegeben falls mit einer letzten **Umfrage in Classroomscreen mit dem Poll-Widget**, ob die Studierenden sich neue digitale Technologiekompetenzen aneignen konnten oder nicht (Ja/Nein) – oder ob die Studierenden Spaß hatten oder nicht (Ja/Nein).
