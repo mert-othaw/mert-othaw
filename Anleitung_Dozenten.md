@@ -25,7 +25,7 @@ Visit the homepage of Classroomscreen: https://classroomscreen.com/.
 ### Step 3
 On the homepage, you can select the "Launch now" option (without registration) and get started right away or select the "Or sign up for free" option (with registration). 
 
-Recommendation to the screen setup for a successful implementation of the hybrid design thinking module are to use the following "widgets": 
+The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid design thinking module: 
 - Time
 - Timer that expires with the scheduled time for a regulated flow of the design thinking module (see "schedule.md")
 - stopwatch 
