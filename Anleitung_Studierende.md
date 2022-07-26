@@ -38,10 +38,10 @@ For this reason, you only need to learn the theory for the first two phases **"P
 
 ### Step 7
 After the problem or the design challenge to be solved is understood, design thinking is about **solving the problem**. 
-This is done in design thinking in phases 4 - 6: **"Phase 4 - Generate ideas, Phase 5 - Prototype, Phase 6 - Test. "**.
+This is done in design thinking in phases 4 - 6: **"Phase 4 - Ideate, Phase 5 - Prototype, Phase 6 - Test. "**.
 
 ### Step 8
-*(Planned time: 60 minutes)* - In **"Phase 4 - Generate ideas "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **MURAL template ("Brainstorm & idea prioritization" - www.mural.co)**. 
+*(Planned time: 60 minutes)* - In **"Phase 4 - Ideate "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **MURAL template ("Brainstorm & idea prioritization" - www.mural.co)**. 
 Fill in the template independently, using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
 The template should then be saved as a pdf. file on the PC.
 
@@ -49,7 +49,7 @@ The template should then be saved as a pdf. file on the PC.
 *(Planned Time: 60 minutes)* - For **"Phase 5 - Prototype "** use **together in a team of 2** for prototyping **your mobile device with Marvel's POP APP (Prototyping on Paper app)** to design and save your prototype. *(Again, you can use a designed example as a guide, but let your creativity run wild.)*
 
 ### Step 10
-*(Planned time: 45 minutes)* - In **"Phase 6 - Testing" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments to the prototypes.
+*(Planned time: 45 minutes)* - In **"Phase 6 - Test" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments to the prototypes.
 
 **In this phase, the students take turns in their roles:** **. 
 * **Student 1** assumes the role of **developer**.
@@ -62,5 +62,5 @@ Afterwards, the template should be saved as a pdf. file on the PC to record the 
 *(As an additional info or as a help if needed, you could have a look at some tips for the interviews or questioning in the already saved file **"Interviewing.pdf "**.)*.
 
 ### Step 11
-*(Planned Time: 90 minutes)* - Summarize your findings as a team and **Present your findings or present your prototype briefly in 3-5 minutes (per team)**.
+*(Planned Time: 90 minutes)* - Summarize your results as a team and **Present your results or present your prototype briefly in 3-5 minutes (per team)**.
 
