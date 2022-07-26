@@ -76,7 +76,7 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 (Duration: 15 minutes) - **Announce coffee break**.
 
 ### Step 14
-(Planned time: 45 minutes) **Phase 6 - Test:** **have the feedbackgrid;** MURAL template (www.mural.co) labeled **"Feedbackgrid "** (see example: **"Feedbackgrid.pdf "**) on hand and **start survey with poll widget in Classroomscreen,** to check if students have the **"Feedbackgrid" template from Mural** available. **Run timer widget of 45 minutes** (see "schedule.md") again on Classroomscreen.
+(Planned time: 45 minutes) **Phase 6 - Test:** **using the feedbackgrid;** MURAL template (www.mural.co) labeled **"Feedbackgrid "** (see example: **"Feedbackgrid.pdf "**) on hand and **start survey with poll widget in Classroomscreen,** to check if students have the **"Feedbackgrid" template from Mural** available. **Run timer widget of 45 minutes** (see "schedule.md") again on Classroomscreen.
 
 ### Step 15
 (Planned time: 90 minutes) **Presentation of the results (or the designed prototypes) by the student groups** in 3-5 minutes per group (team of 2). **Start stopwatch widget** per group on classroom screen to keep within maximum available 5 minutes - optionally **run timer widget of 5 minutes** again on classroom screen instead of **stopwatch widget**.
