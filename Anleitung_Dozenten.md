@@ -82,5 +82,5 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 *(Planned time: 90 minutes)* **Presentation of the results (or the designed prototypes) by the student groups** in 3-5 minutes per group (team of 2). **Start stopwatch widget** per group on classroom screen to keep within maximum available 5 minutes - optionally **run timer widget of 5 minutes** again on classroom screen instead of **stopwatch widget**.
 
 ### Step 16
-*(Planned time: 30 minutes)* scheduled time buffer (if needed), otherwise **Farewell students and end module** for example with a final **poll in classroomscreen using Poll widget** whether or not students were able to acquire new digital technology skills (Yes/No) - or whether or not students had fun (Yes/No).
+*(Planned time: 30 minutes)* scheduled time buffer (if needed), otherwise **Give an official farewell to the students and end module** for example with a final **poll in classroomscreen using Poll widget** whether or not students were able to acquire new digital technology skills (Yes/No) - or whether or not students had fun (Yes/No).
 
