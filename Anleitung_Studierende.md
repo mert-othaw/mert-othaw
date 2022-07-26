@@ -1,67 +1,65 @@
 
 
-# **Anleitung für Studierende**
+# **Instruction for students**
 
-**Benötigte Hardware pro Gruppe:**
-* 1 PC + Monitor
-* 1 Mobilgerät
+**Required hardware per group:**
+* 1 PC + monitor
+* 1 mobile device
 
-**Benötigte Software:**
-* Git-Zugangsdaten (PC)
+**Required software:**
+* Git credentials (PC)
 * MURAL https://mural.co (PC)
-* POP-APP https://marvelapp.com/pop (Mobilgerät)
+* POP-APP https://marvelapp.com/pop (mobile device)
 
 
-## Führen Sie folgende Schritte nacheinander durch und achten Sie dabei auf den geteilten Classroomscreen Ihres Dozenten.
+## Perform the following steps in sequence, paying attention to your instructor's split classroom screen.
 
 ### Step 1
-Fahren Sie Ihren PC hoch und halten Ihr Mobilgerät bereit.
+Boot up your PC and have your mobile device ready.
 
 ### Step 2
-Laden Sie sich Git bzw. GitHub auf Ihren PC und Ziehen sich anschließend die Dateien aus dem bereitgestellten Git-Archiv vollständig herunter, um das Design Thinking Modul vollständig durchführen zu können.
+Download Git or GitHub to your PC and then fully download the files from the provided Git archive in order to fully execute the Design Thinking module.
 
 ### Step 3
-Besuchen Sie die Homepage von MURAL (https://www.mural.co/) und legen Sie einen kostenlosen Account an pro Team (2er-Gruppe) und bestätigen Sie Ihren Account mit Ihrer angegebenen E-Mail in Ihrem E-Mail-Postfach.
+Visit the homepage of MURAL (https://www.mural.co/) and create a free account per team (group of 2) and confirm your account with your provided email in your email inbox.
 
 ### Step 4
-Laden Sie die POP-App (Prototyping on Paper-App) von Marvel über den bereitgestellten QR-Code des Dozenten oder über folgenden Link (https://marvelapp.com/pop) auf Ihr Mobilgerät.
-Wählen Sie je nach Betriebssystem Android (Get it on Google Play) oder Apple (Download on the App Store) aus. Diese App werden Sie in Phase 5 – Prototyp entwickeln benötigen, um Ihren Prototypen zu entwerfen.
+Download Marvel's POP App (Prototyping on Paper App) to your mobile device using the instructor provided QR code or the following link (https://marvelapp.com/pop).
+Depending on your operating system, select Android (Get it on Google Play) or Apple (Download on the App Store). You will need this app to design your prototype in Phase 5 - Prototype.
 
 ### Step 5
-*(Eingeplante Zeit: 30 Minuten)* - Nachdem Sie vollständig  mit der benötigten Software ausgestattet sind, beginnen Sie sich die Theorie der einzelnen Phasen des Design Thinking mit den bereitgestellten Unterlagen anzueignen. 
-**Achten Sie auf die eingeplanten Zeiten des vorgegebenen Zeitplans (siehe „Zeitplan.md") sowie die angezeigte Zeitdauer auf dem Classroomscreen durch den Dozenten!**
+*(Planned Time: 30 minutes)* - After you are fully equipped with the software you will need, begin to learn the theory of each phase of Design Thinking with the materials provided. 
+**Pay attention to the scheduled times of the given timetable (see "timetable.md") as well as the time duration displayed on the classroom screen by the instructor!**
 
 ### Step 6
-Die Design-Challenge ist bekannt „Entwerfen Sie Ihre bzw. eine Lieblingsapp für Studierende“. 
-Aus diesem Grund müssen Sie sich nur die Theorie aneignen für die ersten beiden Phasen **„Phase 1 – Verstehen“** *(Eingeplante Zeit: 30 Minuten)* und **„Phase 2 – Beobachten“** *(Eingeplante Zeit: 30 Minuten)* und anschließend in **„Phase 3 – Standpunkt definieren 1 + 2“** *(Eingeplante Zeit: jeweils 30 Minuten)* **abwechselnd** im Team Ihren Standpunkt definieren zu der Design-Challenge und Ihren definierten Standpunkt auf einem Papier festhalten (siehe „Zeitplan.md").
+The design challenge is known "Design your or a favorite student app". 
+For this reason, you only need to learn the theory for the first two phases **"Phase 1 - Understand "** *(Planned time: 30 minutes)* and **"Phase 2 - Observe "** *(Planned time: 30 minutes)* and then in **"Phase 3 - Define point of view 1 + 2 "** *( Planned time: 30 minutes each)* ** take turns** in the team to define your point of view on the design challenge and write down your defined point of view on a paper (see "Schedule.md").
 
 ### Step 7
-Nachdem das Problem bzw. die zu lösende Design-Challenge verstanden ist, geht es im Design Thinking darum, **das Problem zu lösen**. 
-Dies erfolgt beim Design Thinking in den Phasen 4 - 6: **„Phase 4 – Ideen generieren, Phase 5 – Prototypen entwickeln, Phase 6 – Testen".**
+After the problem or the design challenge to be solved is understood, design thinking is about **solving the problem**. 
+This is done in design thinking in phases 4 - 6: **"Phase 4 - Generate ideas, Phase 5 - Prototype, Phase 6 - Test. "**.
 
 ### Step 8
-*(Eingeplante Zeit: 60 Minuten)* - In **„Phase 4 – Ideen generieren“** werden **gemeinsam im 2er-Team** mit der Brainstorming-Technik, Ideen auf dem ausgewählten **MURAL-Template („Brainstorm & idea prioritization“ - www.mural.co)** generiert, priorisiert und festgehalten. 
-Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten **Beispiel-Template ("Ideen generieren und priorisieren.pdf“)**.
-Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden.
+*(Planned time: 60 minutes)* - In **"Phase 4 - Generate ideas "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **MURAL template ("Brainstorm & idea prioritization" - www.mural.co)**. 
+Fill in the template independently, using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
+The template should then be saved as a pdf. file on the PC.
 
 ### Step 9
-*(Eingeplante Zeit: 60 Minuten)* - Für **„Phase 5 - Prototypen entwickeln/erstellen“** nutzen Sie **gemeinsam im 2er-Team** für das Prototyping **Ihr Mobilgerät mit der POP-APP (Prototyping on Paper-App) von Marvel**, um Ihren Prototypen zu entwerfen und abspeichern. *(Auch hier können Sie sich an einem entworfenen Beispiel orientieren, jedoch lassen Sie Ihrer Kreativität freien Lauf.)*
+*(Planned Time: 60 minutes)* - For **"Phase 5 - Prototype "** use **together in a team of 2** for prototyping **your mobile device with Marvel's POP APP (Prototyping on Paper app)** to design and save your prototype. *(Again, you can use a designed example as a guide, but let your creativity run wild.)*
 
 ### Step 10
-*(Eingeplante Zeit: 45 Minuten)* - In **„Phase 6 – Testen“ (letzte Phase)** eignet sich die Technik Feedbackgrid auf dem ausgewählten **MURAL-Template („Feedback grid“ - www.mural.co)** um das jeweilige Feedback zu den Prototypen durch eine Befragung/Interview vom Nutzer festzuhalten und anschließend mögliche Anpassungen an den Prototypen durchführen zu können.
+*(Planned time: 45 minutes)* - In **"Phase 6 - Testing" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments to the prototypes.
 
-**In dieser Phase wechseln sich die Studierenden in Ihrer Rolle ab:** 
-* **Student 1** übernimmt die Rolle des **Entwicklers**.
-* **Student 2** übernimmt die Rolle des **Nutzers**.
-* **Danach werden die beiden Rollen getauscht!**
-* **Student 1** übernimmt die Rolle des **Nutzers**, **Student 2** die Rolle des **Entwicklers**.
+**In this phase, the students take turns in their roles:** **. 
+* **Student 1** assumes the role of **developer**.
+* **Student 2** assumes the role of **user**.
+* After that, the two roles are swapped.
+* **Student 1** assumes the role of **User**, **Student 2** assumes the role of **Developer**.
 
-Befüllen Sie das Template eigenständig und orientieren Sie sich gegeben falls an dem zur Verfügung gestellten **Beispiel-Template ("Feedbackgrid.pdf“)**.
-Anschließend sollte das Template als pdf.-Datei auf dem PC abgespeichert werden, um die Ergebnisse festzuhalten. 
-*(Als Zusatzinfo oder als Hilfestellung falls nötig, könnten Sie sich einige Tipps für die Interviews bzw. Befragung in der bereits abgespeicherten Datei **„Interviewing.pdf"** ansehen.)*
+Fill in the template independently and, if necessary, use the provided **example template ("Feedbackgrid.pdf")** as a guide.
+Afterwards, the template should be saved as a pdf. file on the PC to record the results. 
+*(As an additional info or as a help if needed, you could have a look at some tips for the interviews or questioning in the already saved file **"Interviewing.pdf "**.)*.
 
 ### Step 11
-*(Eingeplante Zeit: 90 Minuten)* - Fassen Sie Ihre Ergebnisse im Team zusammen und **Präsentieren Sie Ihre Ergebnisse bzw. Stellen Sie Ihren Prototypen in 3-5 Minuten (pro Team) kurz vor**.
-
-
+*(Planned Time: 90 minutes)* - Summarize your findings as a team and **Present your findings or present your prototype briefly in 3-5 minutes (per team)**.
 
