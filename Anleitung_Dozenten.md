@@ -52,7 +52,7 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 (Planned time: 30 minutes) Play/Share video or PowerPoint to provide **Overview and basic understanding of Design Thinking** (Design Challenge + 6 Phases of Design Thinking). 
 
 ### Step 6
-(Planned time: 30 minutes) **Phase 1 - Understanding:** Share classroom screen and set up **Timer widget of 30 minutes** (see "schedule.md") on screen and let it run to help students keep track of time.
+(Planned time: 30 minutes) **Phase 1 - Understand:** Share classroom screen and set up **Timer widget of 30 minutes** (see "schedule.md") on screen and let it run to help students keep track of time.
 
 ### Step 7
 (Planned time: 30 minutes) **Phase 2 - Observe:** **Run timer widget of 30 minutes** (see "schedule.md") again on classroom screen.
