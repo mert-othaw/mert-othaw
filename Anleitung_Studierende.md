@@ -49,7 +49,7 @@ The template should then be saved as a pdf. file on the PC.
 *(Planned Time: 60 minutes)* - For **"Phase 5 - Prototype "** use **together in a team of 2** for prototyping **your mobile device with Marvel's POP APP (Prototyping on Paper app)** to design and save your prototype. *(Again, you can use a designed example as a guide, but let your creativity run wild.)*
 
 ### Step 10
-*(Planned time: 45 minutes)* - In **"Phase 6 - Test" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments to the prototypes.
+*(Planned time: 45 minutes)* - In **"Phase 6 - Test" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments of the prototypes.
 
 **In this phase, the students take turns in their roles:** **. 
 * **Student 1** assumes the role of **developer**.
@@ -59,7 +59,7 @@ The template should then be saved as a pdf. file on the PC.
 
 Fill in the template independently and, if necessary, use the provided **example template ("Feedbackgrid.pdf")** as a guide.
 Afterwards, the template should be saved as a pdf. file on the PC to record the results. 
-*(As an additional info or as a help if needed, you could have a look at some tips for the interviews or questioning in the already saved file **"Interviewing.pdf "**.)*.
+*(As an additional info or help if needed, you could have a look at some tips for the interviews or questionings in the provided file **"Interviewing.pdf "**.)*.
 
 ### Step 11
 *(Planned Time: 90 minutes)* - Summarize your results as a team and **Present your results or present your prototype briefly in 3-5 minutes (per team)**.
