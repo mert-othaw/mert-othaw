@@ -27,7 +27,7 @@ On the homepage, you can select the "Launch now" option (without registration) a
 
 Recommendation to the screen setup for a successful implementation of the hybrid design thinking module are to use the following "widgets": 
 - Time
-- Timer that expires with the scheduled time for a regulated flow of the design thinking module (see "Schedule.md")
+- Timer that expires with the scheduled time for a regulated flow of the design thinking module (see "schedule.md")
 - stopwatch 
 - text
 - QR codes for download for Git software, GitHub or GitHub link to PC.
