@@ -33,7 +33,7 @@ Depending on your operating system, select Android (Get it on Google Play) or Ap
 **Pay attention to the scheduled times of the given timetable (see "timetable.md") as well as the time duration displayed on the classroom screen by the instructor!**
 
 ### Step 6
-The design challenge is known as "Design your favorite app for students". 
+The design challenge is known as "Design a favorite app for students". 
 For this reason, you only need to learn the theory for the first two phases **"Phase 1 - Understand "** *(Planned time: 30 minutes)* and **"Phase 2 - Observe "** *(Planned time: 30 minutes)* and then in **"Phase 3 - Define point of view 1 + 2 "** *( Planned time: 30 minutes each)* ** take turns** in the team to define your point of view on the design challenge and write down your defined point of view on a paper (see "Schedule.md").
 
 ### Step 7
