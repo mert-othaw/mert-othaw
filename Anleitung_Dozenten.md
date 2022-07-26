@@ -58,10 +58,10 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 (Planned time: 30 minutes) **Phase 2 - Observe:** **Run timer widget of 30 minutes** (see "schedule.md") again on classroom screen.
 
 ### Step 8
-(Planned time: 30 minutes) **Phase 3 - Define position 1:** **Run timer widget of 30 minutes** (see "Schedule.md") again on the Classroomscreen screen.
+(Planned time: 30 minutes) **Phase 3 - Define point of view 1:** **Run timer widget of 30 minutes** (see "Schedule.md") again on the Classroomscreen screen.
 
 ### Step 9
-(Planned time: 30 minutes) **Phase 3 - Define position 2: Run timer widget of 30 minutes** (see "schedule.md") again on the classroom screen.
+(Planned time: 30 minutes) **Phase 3 - Define point of view 2: Run timer widget of 30 minutes** (see "schedule.md") again on the classroom screen.
 
 ### Step 10
 (Duration: 30 minutes) - **Announce lunch break**.
