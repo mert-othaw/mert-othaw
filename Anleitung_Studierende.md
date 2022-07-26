@@ -19,13 +19,13 @@
 Boot up your PC and have your mobile device ready.
 
 ### Step 2
-Download Git or GitHub to your PC and then fully download the files from the provided Git archive in order to fully execute the Design Thinking module.
+Download Git or GitHub to your PC and then fully download the files from the provided Git archive in order to be able to fully execute the Design Thinking module.
 
 ### Step 3
-Visit the homepage of MURAL (https://www.mural.co/) and create a free account per team (group of 2) and confirm your account with your provided email in your email inbox.
+Visit the homepage of MURAL (https://www.mural.co/) and create a free account per team (group of 2) and confirm your account with the sent email in your email inbox.
 
 ### Step 4
-Download Marvel's POP App (Prototyping on Paper App) to your mobile device using the instructor provided QR code or the following link (https://marvelapp.com/pop).
+Download Marvel's POP App (Prototyping on Paper App) to your mobile device using the provided QR code of the instructor or the following link (https://marvelapp.com/pop).
 Depending on your operating system, select Android (Get it on Google Play) or Apple (Download on the App Store). You will need this app to design your prototype in Phase 5 - Prototype.
 
 ### Step 5
@@ -33,7 +33,7 @@ Depending on your operating system, select Android (Get it on Google Play) or Ap
 **Pay attention to the scheduled times of the given timetable (see "timetable.md") as well as the time duration displayed on the classroom screen by the instructor!**
 
 ### Step 6
-The design challenge is known "Design your or a favorite student app". 
+The design challenge is known as "Design your favorite app for students". 
 For this reason, you only need to learn the theory for the first two phases **"Phase 1 - Understand "** *(Planned time: 30 minutes)* and **"Phase 2 - Observe "** *(Planned time: 30 minutes)* and then in **"Phase 3 - Define point of view 1 + 2 "** *( Planned time: 30 minutes each)* ** take turns** in the team to define your point of view on the design challenge and write down your defined point of view on a paper (see "Schedule.md").
 
 ### Step 7
