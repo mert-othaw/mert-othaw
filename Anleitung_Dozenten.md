@@ -70,7 +70,7 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 (Planned time: 60 minutes) **Phase 4 - Find/generate ideas:** using brainstorming technique; have MURAL template (www.mural.co) labeled **"Brainstorm & idea prioritization "** (see example: "Ideen generieren und priorisieren.pdf") on hand and **start poll with poll widget in Classroomscreen** to check if students have **"Brainstorm & idea prioritization" template from Mural** available. **Run timer widget of 60 minutes** (see "schedule.md") again on Classroomscreen.
 
 ### Step 12
-(Planned Time: 60 minutes) **Phase 5 - Develop/Create Prototype:** Students will design and save your prototype to your mobile device using Marvel's POP APP. **Start survey using Poll widget in Classroomscreen** to check if the app works for students, if not the prototype should be displayed on a piece of paper. **Run timer widget of 60 minutes** (see "schedule.md") again on Classroomscreen.
+(Planned Time: 60 minutes) **Phase 5 - Prototype:** Students will design and save their prototype on their mobile device using Marvel's POP APP. **Start survey using Poll widget in Classroomscreen** to check if the app works for students, if not the prototype should be displayed on a piece of paper. **Run timer widget of 60 minutes** (see "schedule.md") again on Classroomscreen.
 
 ### Step 13
 (Duration: 15 minutes) - **Announce coffee break**.
