@@ -43,7 +43,7 @@ Select the **widgets** you need: (*Info: In the settings there is the possibilit
 - **Clock widget** for displaying the current time.
 - **Stopwatch widget** for stopping the time e.g. for the final presentation of the results at the end of the workshop.
 
-*If you encounter any difficulties in implementation, you can refer to the sample screenshots for setting up the classroom screen.* (**Screenshot_Launch_now-ohne_Registrierung.png, Screenshot_Beispiel_Classroomscreen-1.png, Screenshot_benötigte_Widgets_Beispiel_Classroomscreen-2.png, Screenshot_QR-Codes_Mural_und_PopApp.png, Umfrageoption_in_Classroom_Beispiel.png**).
+*If you encounter any difficulties in implementation, you can refer to the sample screenshots for setting up the classroom screen.* (**01_Classroomscreen_Launch.PNG,02_Classroomscreen_Example.png,03_Widgets.png,04_QR-Codes_Mural_and_PopApp.PNG,05_Poll_Widget_Example.PNG**).
 
 ### Step 4
 *(Planned time: 30 minutes)* **Welcome students** with an announcement of the Design Challenge: "Design a favorite app for students or for you as a student" and forming the groups (teams of 2). 
