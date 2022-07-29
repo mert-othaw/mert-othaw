@@ -13,7 +13,7 @@ The preparation for the Learning Lab "Design Thinking" consists of
 2. **preparation of the learning room**   
 
   * Boot up your notebook.
-  * Visit the homepage of Classroomscreen: https://classroomscreen.com/.
+  * Visit the homepage of Classroomscreen https://classroomscreen.com/ to organize and monitor the Design Thinking process
   * On the homepage, you can select the "Launch now" option (without registration) and get started right away or select the "Or sign up for free" option (with registration). 
 
 The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid design thinking module: 
