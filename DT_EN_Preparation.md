@@ -1,9 +1,9 @@
 Preparation for Learning Lab Stream
 
 ---
-## Stream "xxy"
+## Stream "Design Thinking"
 
-The preparation for the Learning Lab "xx" consists of 
+The preparation for the Learning Lab "Design Thinking" consists of 
 
 1. **get required hardware**  
 	
