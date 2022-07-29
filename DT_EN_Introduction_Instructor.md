@@ -5,7 +5,7 @@ Author: Mert Ünal 		Date: 2022
 
 
 
-**Learning Lab: Go Agile (GOA)**   
+**Learning Lab: Go Agile (GOA) DT**   
 2022 Summer Semester | Learning Lab "Digital Technologies" |  
 
 ***
@@ -20,7 +20,7 @@ Author: Mert Ünal 		Date: 2022
 - Internet access
 - Classroomscreen (https://classroomscreen.com/)
 
-## Solutions Steps
+## Steps to do
 
 
 ### Step 1
@@ -64,8 +64,6 @@ scheduled time buffer (if needed), otherwise **Give an official farewell to the 
 
 
 
-
-
 ## Further Inputs
 
 If you have any questions to the students, you can use the poll-widget on classroomscreen.
@@ -74,18 +72,9 @@ If you have any questions to the students, you can use the poll-widget on classr
 ## Useful Resources for Own Searches
 
 - What is DT? <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- DT techniques: <https://www.designthinking-methods.com/en/>
-- 
-- What is Agile? <https://www.youtube.com/watch?v=AsFMHnSfI2I> 
-- Agile Manifesto: <https://agilemanifesto.org>
-- Get started with Gitlab: <https://about.gitlab.com/learn/agile-management/>
-- Scrum Guide: <https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf>
-
-## Assignment Review
+- DT techniques/methods: <https://www.designthinking-methods.com/en/>
+- The Design Thinking Process (in 5 Steps) <https://www.youtube.com/watch?v=_r0VX-aU_T8>
+- What is Classroomscreen? <https://help.classroomscreen.com/en/article/what-is-classroomscreen>
+- What is Mural?<https://www.youtube.com/watch?v=mBFFpsy-RUo>  <https://support.mural.co/en/articles/2113691-what-is-mural> 
 
 
-
-## Source(s)
-
-- Gollmer, I. (2019, April 26). #DIGITALLEARNING 2 – Agiles Arbeiten mit Scrum. etventure. <https://www.etventure.de/blog/digitallearning-2-agiles-arbeiten-mit-scrum/>
-- Schwaber, K., & Sutherland, J. (2020). The Scrum Guide. <https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf>
