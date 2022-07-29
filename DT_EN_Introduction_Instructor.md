@@ -35,54 +35,6 @@ Author: Mert Ünal 		Date: 2022
 
 * For the implementation of the project, a project environment is needed first. We use Gitlab for this purpose. First, each team member needs to log in on the Gitlab Website - here we use the Gitlab of LRZ <https://gitlab.lrz.de>. Enter your HM-email address with "HM-" in front, but without "hm.edu" and your HM-password. Click "Sign in".
 
-  <img src="../9000_Specific_Files/2701_Git_Login.jpg" width="400">
-
-  You will then land on the "Projects" landing page. Could be empty or contain a list of your running projects.
-
-  <img src="../9000_Specific_Files/2701_Git_Projects.jpg" width="500">
-
-  > Choose one participant to continue with the next steps. **Only one team member needs to complete the following steps.**
-
-* Click on the + in the middle on the page header and select "New group". 
-
-  <img src="../9000_Specific_Files/2701_Newgroup.jpg" width="300">
-
-* Create a new group with a click on **"create group"**. Just  ...
-  * give your group a group name (like GoGreen, but each group name should be different!)
-  * keep the visability level "Private"
-  * your role will be software developer
-  * we skip the invitation of your team members here
-  * click on "create group"
-
-    <img src="../9000_Specific_Files/2701_creategroup.jpg" width="800">
-
-  
-
-  Welcome to your new group - here, you can start several projects!
-
-  <img src="../9000_Specific_Files/2701_gogreengroup.jpg" width="500">
-
-* Now, we invite your team members. Click on "Group Information" on the left side, choose "**Members**" ...
-
-  <img src="../9000_Specific_Files/2701_addmembers.jpg" width="300">
-
-* ... and **invite your team members** with their Gitlab accounts and select the role "Developer". After "Invite", the others should have access.
-
-  <img src="../9000_Specific_Files/2701_newmembers.jpg" width="500">
-
-* At the end of our first set up we need to create a new project in our group. Therefore, go to middle of your page and press `+` and **create "new project" in "this group"**. A group can contain several projects.
-
-* Select **"Create blank project"**
-
-  <img src="../9000_Specific_Files/2701_Git_NewProject.jpg" width="500">
-
-* Give you project a nice name like "App" and click on "create project". Now, we have a group to generate several projects and one first project called "App". 
-
-<img src="../9000_Specific_Files/2701_ProjectApp.jpg" width="500">
-
-With the help of **the agile project management method Scrum** and the **browser-based software Gitlab**, the implementation of the project is to be organized. 
-
-Gitlab offers the possibility to organize project management, task management and agile working on one platform and ensures high transparency for all team members.
 
 **2. Structure of the Learning Lab**
 
