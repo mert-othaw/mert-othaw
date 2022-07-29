@@ -22,11 +22,12 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-In this Learning Lab, you will learn **Design Thinking**, applicable as an agile method for user-optimized and user-friendly development of innovative products or services, apps, analyses, software and project developments.
 
-In the context of this Learning Lab, you are part of the **Design Thinking Team of your Student Council**.
+### Step 1
+*(Planned time: 30 minutes)* **Welcome students** with an announcement of the Design Challenge: "Design a favorite app for students or for you as a student" and forming the groups (teams of 2). 
 
-Since you find the current app of the university to be inappropriate, your task is to design a favorite app for students. The new app should address the most important needs of students. The development of your app will be funded by your city.
+### Step 5
+*(Planned time: 30 minutes)* Play/Share video or PowerPoint to provide **Overview and basic understanding of Design Thinking** (Design Challenge + 6 Phases of Design Thinking). 
 
 
 
