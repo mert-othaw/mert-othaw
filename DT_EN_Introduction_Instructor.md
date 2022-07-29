@@ -41,7 +41,6 @@ Author: Mert Ünal 		Date: 2022
 _Scrum, on the other hand, is a framework designed to generate **adaptive solutions to complex problems**. Scrum is based on the [values and principles of agile working](<https://agilemanifesto.org/>) and relies on so-called sprints, i.e. a repetitive process. Scrum provides the following framework: Roles, Events and Artifacts.
 A Scrum Team consists of a **Product Owner** (PO), the person responsible for the product, a **Scrum Master**, the methodical coach for PO and developers and the **developers** who are responsible for the planning and product implementation. Interesting: **developers are not only programmer but a mixture of all necessary skills**. Within a Sprint, the Scrum Team goes through the various Scrum Events such as, the Daily Scrum, the Sprint Planning, the Backlog Refinement, the Review and the Retrospective. The Scrum artifacts, the Product Backlog, the Sprint Backlog and the Product Increment serve as tools._
 
-<img src="../9000_Specific_Files/2701_ScrumCircle.png" width="400">
 
 
 
