@@ -28,7 +28,7 @@ In the context of this Learning Lab, you are part of the **Design Thinking Team 
 
 Since you find the current app of the university to be inappropriate, your task is to design a favorite app for students. The new app should address the most important needs of students. The development of your app will be funded by your city.
 
-Translated with www.DeepL.com/Translator (free version)
+
 
 **1.**   **GoGreen gets started!** 
 
