@@ -39,7 +39,7 @@ After the Design Challenge is known, we can now start with the first phase, whic
 In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as Design thinkers should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
 
 
-**2.**  **Working with useful design thinking tools for understanding in phase 1* 
+**2.**  **Working with useful design thinking tools for understanding in phase 1**
 
 Useful tools/methods for design thinking phase 1 - understand:
 
