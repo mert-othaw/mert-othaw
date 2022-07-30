@@ -47,6 +47,7 @@ Depending on your operating system, select Android (Get it on Google Play) or Ap
 
 ### Step 5
 After you are fully equipped with the software you will need, begin to learn the theory of each phase of Design Thinking with the materials provided. 
+
 **Pay attention to the scheduled times of the given timetable (see "timetable.md") as well as the time duration displayed on the classroom screen by the instructor!**
 
 
