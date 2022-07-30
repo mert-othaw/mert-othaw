@@ -5,7 +5,7 @@ Author: Mert Ünal 		Date: 2022
 
 
 
-**Learning Lab: Go Agile (GOA)**   
+**Learning Lab: Go Agile (GOA) DT**   
 
 Summer Semester 22 | Learning Lab "Digital Technologies" |  
 
