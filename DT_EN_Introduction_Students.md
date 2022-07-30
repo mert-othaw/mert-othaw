@@ -33,7 +33,7 @@ Since you find the current app of the university to be inappropriate, your task 
 
 
 ### Step 1
-Boot up your PC and have your mobile device ready.
+Boot up your PC/notebook and have your mobile device ready.
 
 ### Step 2
 Download Git or GitHub to your PC and then fully download the files from the provided Git archive in order to be able to fully execute the Design Thinking module.
@@ -63,27 +63,22 @@ Design Thinking based on agile working, so you have time steps for every phase o
 
 ## Hints
 
-If you have any questions, you can always call the lecturer in the Zoom breakout room for help.
+If you have any questions, you can always call the intructor in the room (but he will not act as a couch of design thinking).
 
 
 ## Useful Resources for Own Searches
 
-- What is Scrum? <https://www.youtube.com/watch?v=TRcReyRYIMg>
-- Scrum Guide: <https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf>
+- What is Design Thinking? <https://hpi-academy.de/en/design-thinking/what-is-design-thinking/> 
+- What is the Design Thinking process? <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
+- How to use Mural?: <https://www.youtube.com/watch?v=3WF6lnDzdQI>
 - What is Agile? <https://www.youtube.com/watch?v=AsFMHnSfI2I> 
-- Agile Manifesto: <https://agilemanifesto.org>
-- Get started with Gitlab: <https://about.gitlab.com/learn/agile-management/>
-- Scrum Guide: <https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf>
+
 
 ## Assignment Review
 
 ## Retrospective
 Please answer the following questions: 
 
-1. What is Scrum used for?
-2. What is Gitlab used for?
+1. What is Design Thinking used for?
+2. What is Mural used for?
 
-## Source(s)
-
-- Gollmer, I. (2019, April 26). #DIGITALLEARNING 2 – Agiles Arbeiten mit Scrum. etventure. <https://www.etventure.de/blog/digitallearning-2-agiles-arbeiten-mit-scrum/>
-- Schwaber, K., & Sutherland, J. (2020). The Scrum Guide. <https://www.scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf>
