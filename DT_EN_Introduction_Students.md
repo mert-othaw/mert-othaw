@@ -50,6 +50,7 @@ After you are fully equipped with the software you will need, begin to learn the
 **Pay attention to the scheduled times of the given timetable (see "timetable.md") as well as the time duration displayed on the classroom screen by the instructor!**
 
 
+
 **Structure of the Learning Lab**
 
 Design Thinking is a systematic, human-centered approach to **solving complex problems** within all aspects of life. The approach goes far beyond traditional concerns such as shape and layout. Design Thinkers step into the shoes of the end-user to create solutions and ideas in form of prototypes as early as possible. So potential users can test the solutions in form of prototypes and give early feedbacks before any launch or completion. Also, Design Thinking creates practicle solutions.
