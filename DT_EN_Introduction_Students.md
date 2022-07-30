@@ -51,11 +51,10 @@ Depending on your operating system, select Android (Get it on Google Play) or Ap
 
 
 **2. Structure of the Learning Lab**
+_Design Thinking is a systematic, human-centered approach to **solving complex problems** within all aspects of life. The approach goes far beyond traditional concerns such as shape and layout. Design Thinkers step into the shoes of the end-user to create solutions and ideas in form of prototypes as early as possible. So potential users can test the solutions in form of prototypes and give early feedbacks before any launch or completion. Also, Design Thinking creates practicle solutions.
+A Design Thinking Team consists of multidisciplinary team members. In this case the Design Thinking team consists of 2 team members (students) to design a favorite app for students. In some process steps **one of both team members have to step into the shoes of the end-user**, and the **second team member still has the role of the developer** - and than switch their roles. 
+Design Thinking based on agile working, so you have time steps for every phase of the design thinking process.
 
-_Scrum, on the other hand, is a framework designed to generate **adaptive solutions to complex problems**. Scrum is based on the [values and principles of agile working](<https://agilemanifesto.org/>) and relies on so-called sprints, i.e. a repetitive process. Scrum provides the following framework: Roles, Events and Artifacts.
-A Scrum Team consists of a **Product Owner** (PO), the person responsible for the product, a **Scrum Master**, the methodical coach for PO and developers and the **developers** who are responsible for the planning and product implementation. Interesting: **developers are not only programmer but a mixture of all necessary skills**. Within a Sprint, the Scrum Team goes through the various Scrum Events such as, the Daily Scrum, the Sprint Planning, the Backlog Refinement, the Review and the Retrospective. The Scrum artifacts, the Product Backlog, the Sprint Backlog and the Product Increment serve as tools._
-
-<img src="../9000_Specific_Files/2701_ScrumCircle.png" width="400">
 
 
 
