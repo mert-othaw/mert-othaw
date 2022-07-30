@@ -51,6 +51,7 @@ After you are fully equipped with the software you will need, begin to learn the
 
 
 **2. Structure of the Learning Lab**
+
 _Design Thinking is a systematic, human-centered approach to **solving complex problems** within all aspects of life. The approach goes far beyond traditional concerns such as shape and layout. Design Thinkers step into the shoes of the end-user to create solutions and ideas in form of prototypes as early as possible. So potential users can test the solutions in form of prototypes and give early feedbacks before any launch or completion. Also, Design Thinking creates practicle solutions.
 A Design Thinking Team consists of multidisciplinary team members. In this case the Design Thinking team consists of 2 team members (students) to design a favorite app for students. In some process steps **one of both team members have to step into the shoes of the end-user**, and the **second team member still has the role of the developer** - and than switch their roles. 
 Design Thinking based on agile working, so you have time steps for every phase of the design thinking process.
