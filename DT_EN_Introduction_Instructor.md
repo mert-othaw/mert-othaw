@@ -75,6 +75,7 @@ If you have any questions to the students, you can use the poll-widget on classr
 - DT techniques/methods: <https://www.designthinking-methods.com/en/>
 - The Design Thinking Process (in 5 Steps) <https://www.youtube.com/watch?v=_r0VX-aU_T8>
 - What is Classroomscreen? <https://help.classroomscreen.com/en/article/what-is-classroomscreen>
+- How to use Classroomscreen? <https://classroomscreen.com/blog/how-to-use-classroomscreen-for-distance-learning>
 - What is Mural?<https://www.youtube.com/watch?v=mBFFpsy-RUo>  <https://support.mural.co/en/articles/2113691-what-is-mural> 
 
 
