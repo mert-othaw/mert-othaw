@@ -1,4 +1,4 @@
-<!--- Learning Lab: "Digital Technologies" GOA
+<!--- Learning Lab: "Digital Technologies" GOA DT
 Author: Mert Ünal 		Date: 2022
 
 -->
