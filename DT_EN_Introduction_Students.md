@@ -29,7 +29,7 @@ In this Learning Lab, you will learn **Design Thinking**, applicable as an agile
 
 In the context of this Learning Lab, you are part of the **Design Thinking Team of your Student Council**.
 
-Since you find the current app of the university to be inappropriate, your task is to design a favorite app for students. The new app should address the most important needs of students. The development of your app will be funded by your city.
+Since you find the current app of the university to be inappropriate, your task is to **design a favorite app for students**. The new app should address the most important needs of students. The development of your app will be funded by your city.
 
 
 ### Step 1
