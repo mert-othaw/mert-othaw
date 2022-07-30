@@ -71,6 +71,7 @@ If you have any questions, you can always call the intructor in the room (but he
 
 - What is Design Thinking? <https://hpi-academy.de/en/design-thinking/what-is-design-thinking/> 
 - What is the Design Thinking process? <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
+- The Design Thinking process (in 5 steps). <https://www.youtube.com/watch?v=_r0VX-aU_T8>
 - How to use Mural?: <https://www.youtube.com/watch?v=3WF6lnDzdQI>
 - What is Agile? <https://www.youtube.com/watch?v=AsFMHnSfI2I> 
 
