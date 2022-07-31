@@ -51,7 +51,7 @@ Useful tools/methods for design thinking phase 2 - observe:
 * Empathy map
 
 
-Team members can use this methods to get common expertise and to empathize in end-users. 
+Team members can use this methods to get common expertise and empathize in end-users. 
 
 ## Further Inputs
 
