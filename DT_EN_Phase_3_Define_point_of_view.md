@@ -11,7 +11,7 @@ Author: Mert Ünal 		Date: 2022
 
 ***
 
-# Assignment 03: Design Thinking Phase 3 - Define point of view
+# Assignment 04: Design Thinking Phase 3 - Define point of view
 
 ## Objectives
 - You learn how Design Thinking is used
