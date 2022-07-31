@@ -1,4 +1,4 @@
-<!--- Learning Lab: "Digital Technologies" GOA
+<!--- Learning Lab: "Digital Technologies" GOA DT
 Author: Mert Ünal 		Date: 2022  
 
 -->
@@ -11,7 +11,7 @@ Author: Mert Ünal 		Date: 2022
 
 ***
 
-# Assignment 02: Design Thinking Phase 2 - Observe
+# Assignment 03: Design Thinking Phase 2 - Observe
 
 ## Objectives
 - You learn how Design Thinking is used
@@ -51,7 +51,7 @@ Useful tools/methods for design thinking phase 2 - observe:
 * Empathy map
 
 
-Team members can use this methods to get common expertise and empathize in end-users. 
+Team members can work with this methods to get common expertise and empathize in end-users. By our design challenge "Create a favorite app for students" i would prefer the "qualitative interviews" method because you as students don't need a empathy map for students.
 
 ## Further Inputs
 
