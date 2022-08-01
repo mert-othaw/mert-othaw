@@ -15,16 +15,17 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 2 - observe means
+- You learn what design thinking phase 4 - ideate means
 
 ## Required Equipment
 - Notebook
 - Internet access
-- Paper and Pen
+- Homepage of Mural (https://www.mural.co/)
+- Mural Template (https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca)
 
 ## Timebox
 
-30 min
+60 min
 
 ## Solutions Steps
 
@@ -71,7 +72,7 @@ Every phase of design thinking is important to create useful solutions!
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - How to interview? <https://www.designthinking-methods.com/en/1Empathie/interviews.html> 
-- Interviewing Template of Mural: <https://app.mural.co/template/f205efdd-0511-400b-a6a0-7ea1b3921fce/24445f46-e720-4ea9-82f1-3ebd9136506e>
+- Brainstorm and idea prioritization Template of Mural: <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
 - Empathy map Template of Mural: <https://app.mural.co/template/02299a19-f773-4eef-bb2c-9f4f1a5d8895/06cfc00c-75a9-4acd-92d5-ced90108a96f>
 
 ## Assignment Review
