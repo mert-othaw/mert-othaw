@@ -47,10 +47,16 @@ After the extensive collection of ideas, they are evaluated and prioritized.
 
 
 
->In our design thinking team of 2 Students, 1 student switch in the role as a developer (interviewer), and the second student switch in the role as a user.
+>In our design thinking team of 2 Students the ideas are generated and prioritized and noted together in 1 Template.
 
 
 **2.**  **Working with useful design thinking tools for ideate in phase 4**
+
+
+In **"Phase 4 - Ideate "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **Mural template "Brainstorm & idea prioritization": <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca> on the Homepage of Mural - <https://www.mural.co/>**. 
+
+Fill in the template independently, using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
+The template should then be saved as a pdf. file on the PC.
 
 
 Useful tools/methods for design thinking phase 4 - ideate:
@@ -63,7 +69,7 @@ Useful tools/methods for design thinking phase 4 - ideate:
 
 
 
-Team members can work with this methods to get common expertise and empathize in end-users. By our design challenge "Create a favorite app for students" i would prefer the "qualitative interviews" method because you as students don't need a empathy map for students.
+Team members can work with this methods to ideate for possible solutions. By our design challenge "Create a favorite app for students" i would prefer the "brainstorming" method to create ideas, note and prioritize it in the selected Mural Template.
 
 ## Further Inputs
 
