@@ -69,7 +69,7 @@ Useful tools/methods for design thinking phase 4 - ideate:
 
 
 
-Team members can work with this methods to ideate for possible solutions. By our design challenge "Create a favorite app for students" i would prefer the "brainstorming" method to create ideas, note and prioritize it in the selected Mural Template.
+Team members can work with this methods to ideate for possible solutions. By our design challenge "Create a favorite app for students" i would prefer the "brainstorming" method to create ideas, note and prioritize it in the selected Mural Template. Also "brainstorming" is one of the most established method for generating ideas.
 
 ## Further Inputs
 
