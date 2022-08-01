@@ -75,15 +75,21 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions!
+Every phase of design thinking is important to create useful solutions! 
+Design Thinking Phases 1-3: Understand the problem.
+Design Thinking Phases 4-6: Solve the problem or create solutions for the problem.
 
 
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- How to interview? <https://www.designthinking-methods.com/en/1Empathie/interviews.html> 
+- How to Brainstorm and why is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/brainstorming.html>
+- What is the How-Now-Wow matrix and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/how-wow-now.html>
+- What is the 6-3-5 method and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/6-3-5.html> 
+- What is a Moodboard and how to create it? <https://uxdesign.cc/using-moodboards-in-the-design-process-b61979ad7149>
+- What is the 5 Whys method and how is it used? <https://www.designthinking-methods.com/en/1Empathie/5-warum.html>
 - Brainstorm and idea prioritization Template of Mural: <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
-- Empathy map Template of Mural: <https://app.mural.co/template/02299a19-f773-4eef-bb2c-9f4f1a5d8895/06cfc00c-75a9-4acd-92d5-ced90108a96f>
+
 
 ## Assignment Review
 
