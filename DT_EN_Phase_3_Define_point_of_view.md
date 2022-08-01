@@ -56,7 +56,7 @@ Useful tools/methods for design thinking phase 3 - define point of view:
 * User Journey Map – User Stories
 
 
-Team members can work with this methods to get the same basis and prefer the most important facts to be solved in the following phases 4-6. By our design challenge "Create a favorite app for students" i would prefer the "How might we.. question" method because in this case you as students for example don't need a persona for students.
+Team members can work with this methods to get the same basis and prefer the most important facts to be solved in the following phases 4-6. By our design challenge "Create a favorite app for students" i would prefer the "How might we.. question" method because in this case you as students for example don't need a persona for students. If the team defined their point of view, with the "How might we.." questions method you can prepare for the following phase - ideate.
 
 ## Further Inputs
 
