@@ -29,8 +29,11 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 1 - 3 is passed, we can continue with the fourth phase, which is called **Ideate**. In this Phase we come over to create solution for our defined problem in the previous phases.
-So we go from understanding the problem and start to solve the problem.
+After Phase 1 - 3 is passed, we can continue with the fourth phase, which is called **Ideate**. In this Phase 4 we come over to create solution for our defined problem in the previous phases.
+
+So we go over from understanding the problem and start to solve the problem.After the problem or the design challenge that needs to be solved is understood, it is about **solving the problem**. 
+This is done in phases 4 - 6 of design thinking: **"Phase 4 - Ideate, Phase 5 - Prototype, Phase 6 - Test. "**.
+We will start with **phase 4 - ideate**.
 
 
 > Be careful on the running timer of your instructor. 
@@ -48,6 +51,7 @@ After the extensive collection of ideas, they are evaluated and prioritized.
 
 
 **2.**  **Working with useful design thinking tools for ideate in phase 4**
+
 
 Useful tools/methods for design thinking phase 4 - ideate:
 
