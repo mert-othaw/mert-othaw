@@ -70,6 +70,7 @@ Every phase of design thinking is important to create useful solutions!
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - What is a persona and how to create it? <https://www.designthinking-methods.com/en/2Definition/personas.html> 
 - What is a User Journey and how to create it? Template of Mural: <https://app.mural.co/template/4ec1368a-7b41-4cad-a297-f775fbae332c/dffc5621-7c97-49eb-94a3-1a857e9e12c2>
+- What is the "How might we.." question method and how to use it? <https://www.medien.ifi.lmu.de/lehre/ws1516/cd/How_might_we.pdf>
 -
 
 ## Assignment Review
