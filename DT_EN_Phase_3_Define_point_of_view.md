@@ -68,10 +68,14 @@ Every phase of design thinking is important to create useful solutions!
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
+- What is Storytelling in Design Thinking and how to use it?<https://www.youtube.com/watch?v=1lDt-cd-VIs> <https://www.designorate.com/the-role-of-storytelling-in-the-design-process/>
 - What is a persona and how to create it? <https://www.designthinking-methods.com/en/2Definition/personas.html> 
+- What ist Nugget Framing and how to use it? <https://medium.com/@holger.rhinow/the-nugget-frame-899eef853858>
+- What is Reframing and why to use it? <https://www.youtube.com/watch?v=wEdk1bn0nsM>
+- What is Jobs to be done and how to use it? <https://www.youtube.com/watch?v=RQjBawcU_qg&t=8s> <https://www.forumone.com/insights/blog/working-jobs-be-done-design-process/> <https://app.mural.co/template/a8de4f06-b402-45ed-8eb2-bc17cf567b5e/0444b92d-148e-46b7-86cc-83a7b4a15d6b>
+- What is the **"How might we.." question method** and how to use it? <https://www.medien.ifi.lmu.de/lehre/ws1516/cd/How_might_we.pdf>
 - What is a User Journey and how to create it? Template of Mural: <https://app.mural.co/template/4ec1368a-7b41-4cad-a297-f775fbae332c/dffc5621-7c97-49eb-94a3-1a857e9e12c2>
-- What is the "How might we.." question method and how to use it? <https://www.medien.ifi.lmu.de/lehre/ws1516/cd/How_might_we.pdf>
--
+
 
 ## Assignment Review
 
