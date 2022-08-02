@@ -79,7 +79,11 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Search](/Phase_4_Ideate_Screenshots/01_Ideate_Search.PNG) 
 
+* Double tap on the "Brainstorm & idea prioritization" to open this template.
+
 ![Find](/Phase_4_Ideate_Screenshots/02_Ideate_Find_Template.PNG)
+
+
 
  
 ## Further Inputs
