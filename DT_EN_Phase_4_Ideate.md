@@ -91,7 +91,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
 
-* Before you start to work and fill the created Mural/Template, here are some hints you can use.
+* **Before you start to work and fill the created mural template, here are some hints you can use.**
 
 1. Name your template
 ![Name](/Phase_4_Ideate_Screenshots/06_Name_your_template.PNG)
@@ -102,9 +102,24 @@ Team members can work with this methods to ideate for possible solutions. By our
 3. You can also set a timer in your mural, while working in your created mural template.
 ![Timer](/Phase_4_Ideate_Screenshots/07_Timer_in_Template.PNG)
 
-4. 
+4. On the right side you can also find an outline.
+![Outline](/Phase_4_Ideate_Screenshots/08_Outline_for_hints.PNG)
 
-* Start to work and fill this template. You can write down your previous defined point of view and go to point 2 in this template to brainstorm.
+5. Double klick on the left mouse key if you want to write or type something into the template.
+
+
+
+* **Start to work and fill this template. 
+
+* You can write down your previous defined point of view with your "how might we..." questions of the previous design thinking phase 3 if you like **at number 1 of this mural template**. Double click on the left mouse key to write it down.
+![Problem](/Phase_4_Ideate_Screenshots/05_Define_POV_00.PNG)
+
+* And than switch to **point 2 in this template** to **brainstorm** and write down your generated ideas. Double click on to the orange square to fill. 
+![Fill](/Phase_4_Ideate_Screenshots/05_Double_Tap_to_fill_.PNG)
+
+* In a group of 2 students, they can fill the squares of person 1 and person 2 in this mural template.
+![Brainstorm](/Phase_4_Ideate_Screenshots/05_Brainstorm_ideas_01.PNG)
+
 
  
 ## Further Inputs
