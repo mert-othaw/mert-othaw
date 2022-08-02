@@ -20,8 +20,8 @@ Author: Mert Ünal 		Date: 2022
 ## Required Equipment
 - Notebook
 - Internet access
-- Homepage of Mural (https://www.mural.co/)
-- Mural Template (https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca)
+- Homepage of Mural <https://www.mural.co/>
+- Mural Template <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
 
 ## Timebox
 
@@ -84,11 +84,12 @@ Design Thinking Phases 4-6: Solve the problem or create solutions for the proble
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - How to Brainstorm and why is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/brainstorming.html>
+- - Brainstorm and idea prioritization Template of Mural: <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
 - What is the How-Now-Wow matrix and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/how-wow-now.html>
 - What is the 6-3-5 method and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/6-3-5.html> 
 - What is a Moodboard and how to create it? <https://uxdesign.cc/using-moodboards-in-the-design-process-b61979ad7149>
 - What is the 5 Whys method and how is it used? <https://www.designthinking-methods.com/en/1Empathie/5-warum.html>
-- Brainstorm and idea prioritization Template of Mural: <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
+
 
 
 ## Assignment Review
