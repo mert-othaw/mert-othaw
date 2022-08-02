@@ -145,6 +145,8 @@ You can move the squares by **"drag and pull"** them.
 ![Prioritize](/Phase_4_Ideate_Screenshots/05_Prioritize_ideas_03.PNG)
 
 
+
+
 **If you're finished don't forget to save your mural template.**
 
 * Click on the icon shown in the following picture to save and download your template.
@@ -163,6 +165,8 @@ You can move the squares by **"drag and pull"** them.
 * Copy the link if you want to share your created mural template as shown in the following picuture. 
 
 ![Link](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_02.PNG)
+
+
 
 
 **If everything is saved, finish working in this template with going back to dashboard with the following button shown in the following picture.**
