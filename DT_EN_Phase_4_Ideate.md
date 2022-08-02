@@ -87,7 +87,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural.PNG)
 
-* In the openinge Pop-Up choose "Create mural".
+* In the opening Pop-Up choose "Create mural".
 
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
 
@@ -109,7 +109,13 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Outline](/Phase_4_Ideate_Screenshots/08_Outline_for_hints.PNG)
 
-5. **Double klick on the left mouse key if you want to write or type something into the template**.
+5. Double klick on the left mouse key if you want to write or type something into the template.
+
+6. In the following picture you can see how to zoom in and out with the "-" and "+" button in this template.
+
+![Zoom](/Phase_4_Ideate_Screenshots/04_Zoom_in_and_out.PNG)
+
+
 
 
 
@@ -126,6 +132,8 @@ Team members can work with this methods to ideate for possible solutions. By our
 * In a group of 2 students, they can fill the squares of person 1 and person 2 in this mural template.
 
 ![Brainstorm](/Phase_4_Ideate_Screenshots/05_Brainstorm_ideas_01.PNG)
+
+
 
 
  
