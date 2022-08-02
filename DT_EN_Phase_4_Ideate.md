@@ -75,7 +75,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 * Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and than choose your Mural Template named "Brainstorm & idea prioritization". You can find this template on this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
 
-* In the field "Search" you can type in "Brainstorm & idea prioritization" if you can't find the mural on the link. 
+* In the field "Search" you can type in "Brainstorm & idea prioritization" if you can't find the Mural Template on the link. 
 
 ![Search](/Phase_4_Ideate_Screenshots/01_Ideate_Search.PNG) 
 
