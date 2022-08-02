@@ -91,7 +91,8 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
 
-* **Before you start to work and fill the created mural template, here are some hints you can use.**
+
+**Before you start to work and fill the created mural template, here are some hints you can use.**
 
 1. Name your template
 
@@ -119,7 +120,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 
 
-* **Start to work and fill this template**. 
+**Start to work and fill this template**. 
 
 * You can write down your previous defined point of view with your "how might we..." questions of the previous design thinking phase 3 if you like **at number 1 of this mural template**. Double click on the left mouse key to write it down.
 
@@ -129,10 +130,19 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Fill](/Phase_4_Ideate_Screenshots/05_Double_Tap_to_fill_.PNG)
 
-* In a group of 2 students, they can fill the squares of person 1 and person 2 in this mural template.
+* In a group of 2 students, they can fill the squares of person 1 and person 2 with your generating ideas by brainstorming in this mural template.
 
 ![Brainstorm](/Phase_4_Ideate_Screenshots/05_Brainstorm_ideas_01.PNG)
 
+
+* At **point 3** in this template you can **group your ideas** - so you can cluster similar ideas from non-similar ideas. With **"ctrl-c"** you can copy your previous written ideas in the orange squares from **point 2** and paste it with **"ctrl-v"** to **point 3** in this template.
+
+![Group](/Phase_4_Ideate_Screenshots/05_Group_ideas_02.PNG)
+
+* At **point 4** in this template you can **prioritize your ideas** in the given diagram. With **"ctrl-c"** you can copy your previous written and grouped ideas from **point 3** and paste **"ctrl-v"** them to **point 4** to prioritize them according to importance and feasibility as shown in the diagram.
+You can move the squares by **"drag and pull"** them.
+
+![Prioritize](/Phase_4_Ideate_Screenshots/05_Prioritize_ideas_03.PNG)
 
 
 
