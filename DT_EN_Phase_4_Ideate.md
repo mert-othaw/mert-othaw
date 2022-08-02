@@ -152,9 +152,22 @@ You can move the squares by **"drag and pull"** them.
 
 ![Save](/Phase_4_Ideate_Screenshots/09_Save_your_template_01.PNG)
 
-* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File.
+* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
 
 ![Download](/Phase_4_Ideate_Screenshots/09_Save_your_template_02_DL.PNG)
+
+* You also have to option to share your created mural template if you click on the "Share" Button.
+
+![Share](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_01.PNG)
+
+* Copy the link if you want to share your created mural template as shown in the following picuture. 
+
+![Link](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_02.PNG)
+
+
+**If everything is saved, finish working in this template with going back to dashboard with the following button shown in the following picture.**
+
+![Finish](/Phase_4_Ideate_Screenshots/10_go_back_to_dashboard.PNG)
 
  
 ## Further Inputs
