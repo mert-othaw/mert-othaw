@@ -110,7 +110,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Outline](/Phase_4_Ideate_Screenshots/08_Outline_for_hints.PNG)
 
-5. Double klick on the left mouse key if you want to write or type something into the template.
+5. Double click on the left mouse key if you want to write or type something into the template.
 
 6. In the following picture you can see how to zoom in and out with the "-" and "+" button in this template.
 
@@ -145,6 +145,16 @@ You can move the squares by **"drag and pull"** them.
 ![Prioritize](/Phase_4_Ideate_Screenshots/05_Prioritize_ideas_03.PNG)
 
 
+**If you're finished don't forget to save your mural template.**
+
+* Click on the icon shown in the following picture to save and download your template.
+
+
+![Save](/Phase_4_Ideate_Screenshots/09_Save_your_template_01.PNG)
+
+* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File.
+
+![Download](/Phase_4_Ideate_Screenshots/09_Save_your_template_02_DL.PNG)
 
  
 ## Further Inputs
