@@ -83,7 +83,28 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Find](/Phase_4_Ideate_Screenshots/02_Ideate_Find_Template.PNG)
 
+* Choose "Create mural from this template".
 
+![Create](/Phase_4_Ideate_Screenshots/03_Create_mural.PNG)
+
+* In the openinge Pop-Up choose "Create mural".
+
+![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
+
+* Before you start to work and fill the created Mural/Template, here are some hints you can use.
+
+1. Name your template
+![Name](/Phase_4_Ideate_Screenshots/06_Name_your_template.PNG)
+
+2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar you can use to fill your template or visualize your ideas.
+![Widgets](/Phase_4_Ideate_Screenshots/06_Widgets_for_filling_template.PNG)
+
+3. You can also set a timer in your mural, while working in your created mural template.
+![Timer](/Phase_4_Ideate_Screenshots/07_Timer_in_Template.PNG)
+
+4. 
+
+* Start to work and fill this template. You can write down your previous defined point of view and go to point 2 in this template to brainstorm.
 
  
 ## Further Inputs
