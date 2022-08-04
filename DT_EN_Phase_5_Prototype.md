@@ -21,7 +21,7 @@ Author: Mert Ünal 		Date: 2022
 - Notebook
 - Internet access
 - Paper and Pen
-- Mobile device
+- Mobile device with POP APP <https://marvelapp.com/pop>
 
 ## Timebox
 
