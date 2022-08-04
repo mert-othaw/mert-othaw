@@ -44,7 +44,8 @@ This makes it possible to get initial feedback from the users. This prototype is
 
 
 
->In our design thinking team of 2 Students, both students create or design their prototype together on their Mobile device with a Prototyping App.
+>For "Phase 5 - Prototype " use together in a team of 2 for prototyping your mobile device with Marvel's POP APP (Prototyping on Paper app) to design and save your prototype in this app. (You can use a designed example as a guide, but let your creativity run wild.)
+
 
 **2.**  **Working with useful design thinking tools for prototyping in phase 5**
 
