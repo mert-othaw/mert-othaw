@@ -80,7 +80,7 @@ Every phase of design thinking is important to create useful solutions!
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - What is Storytelling in Design Thinking and how to use it?<https://www.youtube.com/watch?v=1lDt-cd-VIs> <https://www.designorate.com/the-role-of-storytelling-in-the-design-process/>
-- What is a persona and how to create it? <https://www.designthinking-methods.com/en/2Definition/personas.html> 
+- How to make a quick App with the Prototyping App of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk> 
 - What ist Nugget Framing and how to use it? <https://medium.com/@holger.rhinow/the-nugget-frame-899eef853858>
 - What is Reframing and why to use it? <https://www.youtube.com/watch?v=wEdk1bn0nsM>
 - What is Jobs to be done and how to use it? <https://www.youtube.com/watch?v=RQjBawcU_qg&t=8s> <https://www.forumone.com/insights/blog/working-jobs-be-done-design-process/> <https://app.mural.co/template/a8de4f06-b402-45ed-8eb2-bc17cf567b5e/0444b92d-148e-46b7-86cc-83a7b4a15d6b>
