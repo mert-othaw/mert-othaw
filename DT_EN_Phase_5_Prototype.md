@@ -82,10 +82,9 @@ Every phase of design thinking is important to create useful solutions!
 - What are Mock-ups? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups>
 - How to make a quick App with the Prototyping App of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk> 
 - What ist prototype through role playing, what is it and how is it used? <https://www.designkit.org/methods/role-play> <https://blog.mjvinnovation.com/design-thinking-2/design-thinking-tool-prototyping-through-role-playing>
-- What is Reframing and why to use it? <https://www.youtube.com/watch?v=wEdk1bn0nsM>
-- What is Jobs to be done and how to use it? <https://www.youtube.com/watch?v=RQjBawcU_qg&t=8s> <https://www.forumone.com/insights/blog/working-jobs-be-done-design-process/> <https://app.mural.co/template/a8de4f06-b402-45ed-8eb2-bc17cf567b5e/0444b92d-148e-46b7-86cc-83a7b4a15d6b>
-- What is the **"How might we.." question method** and how to use it? <https://www.medien.ifi.lmu.de/lehre/ws1516/cd/How_might_we.pdf>
-- What is a User Journey and how to create it? Template of Mural: <https://app.mural.co/template/4ec1368a-7b41-4cad-a297-f775fbae332c/dffc5621-7c97-49eb-94a3-1a857e9e12c2>
+- How to prototype by storytelling and storyboarding? Example: <https://www.youtube.com/watch?v=jmn3XCDvVDE&t=0s>
+- What is an MVP? <> 
+
 
 
 ## Assignment Review
