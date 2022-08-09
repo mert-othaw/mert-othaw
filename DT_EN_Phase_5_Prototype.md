@@ -79,7 +79,7 @@ Every phase of design thinking is important to create useful solutions!
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- What is Storytelling in Design Thinking and how to use it?<https://www.youtube.com/watch?v=1lDt-cd-VIs> <https://www.designorate.com/the-role-of-storytelling-in-the-design-process/>
+- What are Mock-ups? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups>
 - How to make a quick App with the Prototyping App of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk> 
 - What ist Nugget Framing and how to use it? <https://medium.com/@holger.rhinow/the-nugget-frame-899eef853858>
 - What is Reframing and why to use it? <https://www.youtube.com/watch?v=wEdk1bn0nsM>
