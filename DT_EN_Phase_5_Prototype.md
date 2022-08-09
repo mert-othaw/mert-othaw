@@ -81,7 +81,7 @@ Every phase of design thinking is important to create useful solutions!
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - What are Mock-ups? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups>
 - How to make a quick App with the Prototyping App of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk> 
-- What ist Nugget Framing and how to use it? <https://medium.com/@holger.rhinow/the-nugget-frame-899eef853858>
+- What ist prototype through role playing, what is it and how is it used? <https://www.designkit.org/methods/role-play> <https://blog.mjvinnovation.com/design-thinking-2/design-thinking-tool-prototyping-through-role-playing>
 - What is Reframing and why to use it? <https://www.youtube.com/watch?v=wEdk1bn0nsM>
 - What is Jobs to be done and how to use it? <https://www.youtube.com/watch?v=RQjBawcU_qg&t=8s> <https://www.forumone.com/insights/blog/working-jobs-be-done-design-process/> <https://app.mural.co/template/a8de4f06-b402-45ed-8eb2-bc17cf567b5e/0444b92d-148e-46b7-86cc-83a7b4a15d6b>
 - What is the **"How might we.." question method** and how to use it? <https://www.medien.ifi.lmu.de/lehre/ws1516/cd/How_might_we.pdf>
