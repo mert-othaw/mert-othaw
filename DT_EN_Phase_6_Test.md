@@ -126,7 +126,7 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 > After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are swapped.**
 
-* **Student 2 (Developer) interviews Student 1 (User) and documents the respective feedback** too on the **same** feedback grid template.
+* Then **Student 2 (Developer) interviews Student 1 (User) and documents the respective feedback** too on the **same** feedback grid template.
 
 ![Fillin2](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_02.PNG)
 
