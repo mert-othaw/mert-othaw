@@ -90,7 +90,7 @@ Fill in the template independently and, if necessary, use the provided example t
 
 ![Search](/Phase_6_Test_Screenshots/01_Test_Search.PNG) 
 
-* Choose "Create mural from this template" and in the opening Pop-Up choose "Create mural".
+* Choose "Create mural from this template" and in the following Pop-Up choose "Create mural".
 
 ![Create](/Phase_6_Test_Screenshots/02_Create_Mural.PNG)
 
