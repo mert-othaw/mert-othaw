@@ -8,8 +8,9 @@
 
 **Required software:**
 * Git credentials (PC)
-* MURAL https://mural.co (PC)
-* POP-APP https://marvelapp.com/pop (mobile device)
+* MURAL <https://mural.co> (PC)
+* POP-APP <https://marvelapp.com/pop> (mobile device)
+* Marvel App (POP)<https://marvelapp.com> (PC)
 
 
 
