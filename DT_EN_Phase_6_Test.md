@@ -131,6 +131,14 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 ![Fillin2](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_02.PNG)
 
 
+**If you're finished don't forget to save your mural template.**
+
+* Click on the icon shown in the following picture to save and download your template.
+
+![Save](/Phase_6_Test_Screenshots/07_Save_01.PNG)
+
+
+
 ## Further Inputs
 
 ## Hints
