@@ -120,3 +120,4 @@ Please answer the following questions:
 
 1. What is the reason of the design thinking phase "prototype” and how does it work?
 2. Which methods you can use in this phase?
+3. What was it like working with Marvel's prototyping app?
