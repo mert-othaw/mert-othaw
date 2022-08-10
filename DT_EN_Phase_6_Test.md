@@ -124,7 +124,7 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 * At first **Student 1 (Developer) interviews Student 2 (User) and documents the respective feedback** to the created prototype "Favorite app for students" from the previous phase 5 - prototype on this template. Double click on the left mouse key to write it down into the feedback grid template.
 
-> After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are swapped.**
+>* After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are swapped.**
 
 * Then **Student 2 (Developer) interviews Student 1 (User) and documents the respective feedback** too on the **same** feedback grid template.
 
