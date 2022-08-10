@@ -84,8 +84,9 @@ Fill in the template independently and, if necessary, use the provided example t
 
 **3.** **Working with Mural Template**
 
+* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and than choose your Mural Template named "Feedback grid". You can find this template on this link <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>.
 
-
+* In the field "Search" you can type in "Feedback grid" if you can't find the Mural Template on the link. 
 
 
 
