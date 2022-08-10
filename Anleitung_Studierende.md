@@ -10,7 +10,7 @@
 * Git credentials (PC)
 * MURAL <https://mural.co> (PC)
 * POP-APP <https://marvelapp.com/pop> (mobile device)
-* Marvel App (POP)<https://marvelapp.com> (PC)
+* Homepage of Marvel app (POP) <https://marvelapp.com> (PC)
 
 
 
