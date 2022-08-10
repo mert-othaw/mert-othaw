@@ -54,9 +54,9 @@ Once the "test phase" has been completed, the DT process is also considered comp
 
 **2.**  **Working with useful design thinking tools for testing in phase 6**
 
-In **"Phase 6 - Test"** (final phase), the Feedbackgrid technique on the selected Mural template ("Feedback grid" - www.mural.co) is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
+In **"Phase 6 - Test"** (final phase), the Feedbackgrid technique on the selected Mural template **"Feedback grid"**: **<https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> on the homepage of Mural <https://www.mural.co/>** is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
 
-For documenting the respective feedback, students turns into their roles as a "developer" and "user".
+For documenting the feedback, students take turns in their roles as a "developer" and "user".
 
 * **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
 * While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
@@ -64,7 +64,7 @@ For documenting the respective feedback, students turns into their roles as a "d
 * **Student 2** assumes the role as **developer** and interviews **Student 1** with the role as an **user**. 
 * While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as a user on the **same** "Feedback grid" Template of Mural.
 
-Fill in the template independently and, if necessary, use the provided example template ("Feedbackgrid.pdf") as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you could have a look at some tips for the interviews or questionings in the provided file "Interviewing.pdf ".).
+
 
 Useful tools/methods for design thinking phase 6 - test:
 
@@ -76,8 +76,9 @@ Useful tools/methods for design thinking phase 6 - test:
 
 
 Team members can work with different methods to **test** their prototype with the user. It depends on the prototype which method is the most suitable.
-By our design challenge "Create a favorite app for students" for prototyping we will use the Feedback grid technique with the selected **Feedbackgrid Template of Mural to test** <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> on the homepage of Mural <https://www.mural.co/>.
+By our design challenge "Create a favorite app for students" for prototyping we will use the mentioned Feedback grid technique with the selected **Feedbackgrid Template of Mural to test** <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> on the homepage of Mural <https://www.mural.co/>.
 
+Fill in the template independently and, if necessary, use the provided example template ("Feedbackgrid.pdf") as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you could have a look at some tips for the interviews or questionings in the provided file "Interviewing.pdf ".).
 
 
 
