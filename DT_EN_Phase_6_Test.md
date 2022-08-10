@@ -51,7 +51,14 @@ Once the "test phase" has been completed, the DT process is also considered comp
 
 
 
->For "Phase 6 - Test " use together in a team of 2 for testing your mobile device with Marvel's POP APP (Prototyping on Paper app) to design and save your prototype in this app. (You can use a designed example as a guide, but let your creativity run wild.)
+>In "Phase 6 - Test" (final phase), the Feedbackgrid technique on the selected Mural template ("Feedback grid" - www.mural.co) is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
+**In this phase, the students take turns in their roles as a developer and user. (Team of 2 Students)**
+
+* **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
+* While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
+* After that, the two roles are swapped (max. timebox 20 min).
+* **Student 2** assumes the role as **developer** and interviews **Student 1** with the role as an **user**. 
+* While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as a user on the **same** "Feedback grid" Template of Mural.
 
 
 **2.**  **Working with useful design thinking tools for testing in phase 6**
@@ -65,7 +72,7 @@ Useful tools/methods for design thinking phase 6 - test:
 
 
 
-Team members can work with different methods to test their prototype with the user. It depends on the prototype which method is the most suitable.
+Team members can work with different methods to **test** their prototype with the user. It depends on the prototype which method is the most suitable.
 By our design challenge "Create a favorite app for students" for prototyping we will use the Feedback grid technique with the selected **Feedbackgrid Template of Mural to test** <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> on the homepage of Mural <https://www.mural.co/>.
 
 
