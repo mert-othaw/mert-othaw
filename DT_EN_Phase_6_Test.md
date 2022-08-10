@@ -137,6 +137,9 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 ![Save](/Phase_6_Test_Screenshots/07_Save_01.PNG)
 
+* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
+
+![Download](/Phase_6_Test_Screenshots/07_Save_02.PNG)
 
 
 ## Further Inputs
