@@ -23,7 +23,8 @@ Author: Mert Ünal 		Date: 2022
 - Paper and Pen
 - Mobile device with POP APP <https://marvelapp.com/pop>
 - Homepage of Marvel App (POP) <https://marvelapp.com>
-- Homepage of Mural <https://www.mural.co/> with Feedbackgrid Template <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
+- Homepage of Mural <https://www.mural.co/> 
+- Mural Template <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
 
 
 ## Timebox
