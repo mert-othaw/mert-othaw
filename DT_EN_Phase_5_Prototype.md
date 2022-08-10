@@ -77,7 +77,17 @@ So, for example, you can view and show the app you created on the homepage on yo
 
 **3.** **Prototype with the Marvel App (POP)**
 
-**How to make a quick App using the Prototyping App of Marvel (homepage)? Check this link before you start to create your favorite students app: <https://www.youtube.com/watch?v=1439vIj-yDk> .**
+**How to make a quick App using the Prototyping App of Marvel (homepage)? 
+
+Check this link before you start to create your favorite students app: <https://www.youtube.com/watch?v=1439vIj-yDk> !**
+
+
+* Sign in into your created Marvel account and use the widgets as shown in the previous video.
+
+* Log in to your Marvel account and use the tools from the previous video to design your favorite app.
+
+* Remember that this is a design you want to present to the client and highlight your favorite ideas from Phase 4 - Generate Ideas in the app.
+So it should not be too complex in structure and present the favored ideas.
 
 
 
