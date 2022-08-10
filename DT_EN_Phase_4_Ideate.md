@@ -92,7 +92,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
 
 
-**Before you start to work and fill the created mural template, here are some hints you can use.**
+**Before you start to fill the created mural template, here are some hints you can use.**
 
 1. Name your template
 
