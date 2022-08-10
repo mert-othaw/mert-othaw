@@ -70,7 +70,7 @@ By our design challenge "Create a favorite app for students" for prototyping we 
 
 
 
-**3.**Prototype with the Marvel App (POP)**
+**3.** **Prototype with the Marvel App (POP)**
 
 **How to make a quick App using the Prototyping App of Marvel (homepage)? Check this link before you start to create your favorite students app: <https://www.youtube.com/watch?v=1439vIj-yDk> .**
 
