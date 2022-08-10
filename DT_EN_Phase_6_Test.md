@@ -115,10 +115,10 @@ Fill in the template independently and, if necessary, use the provided example t
 
 * As you can see, the feedback grid is divided into 4 fields. 
 For each of these 4 fields, there are also an additional 3 questions noted in the template to properly classify the user feedback into the fields.
->On the top left you can see the positive feedback.
->On the top right you can see the negative feedback.
->At the bottom left to note are ideas, for example new ideas that have developed as a result of user feedback.
->In the field on the bottom right are unanswered questions.
+>* On the top left you can see the positive feedback.
+>* On the top right you can see the negative feedback.
+>* At the bottom left to note are ideas, for example new ideas that have developed as a result of user feedback.
+>* In the field on the bottom right are unanswered questions.
 
 ![Fillin](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_01.PNG)
 
