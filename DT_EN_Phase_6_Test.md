@@ -58,7 +58,6 @@ In **"Phase 6 - Test"** (final phase), the Feedback grid technique on the select
 
 
 >For documenting the feedback, students take turns in their roles as a "developer" and "user".
-
 * **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
 * While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
 * After that, the two roles are swapped (max. timebox 20 min).
