@@ -79,7 +79,7 @@ So, for example, you can view and show the app you created on the homepage on yo
 
 **How to make a quick App using the Prototyping App of Marvel (homepage)? **
 
-**Check this link before you start to create your favorite students app: <https://www.youtube.com/watch?v=1439vIj-yDk> !**
+**Check this link before you start to create your favorite students app: ** **<https://www.youtube.com/watch?v=1439vIj-yDk> ! **
 
 
 * Sign in into your created Marvel account and use the widgets as shown in the previous video.
