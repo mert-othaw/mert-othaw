@@ -111,9 +111,24 @@ Fill in the template independently and, if necessary, use the provided example t
 4. Double click on the left mouse key if you want to write or type something into the Feedback grid template.
 
 
+**Start to work and fill this template**. 
 
+* As you can see, the feedback grid is divided into 4 fields. 
+For each of these 4 fields, there are also an additional 3 questions noted in the template to properly classify the user feedback into the fields.
+>On the top left you can see the positive feedback.
+On the top right you can see the negative feedback.
+At the bottom left to note are ideas, for example new ideas that have developed as a result of user feedback.
+In the field on the bottom right are unanswered questions.
 
+![Fillin](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_01.PNG)
 
+* At first **Student 1 (Developer) interviews Student 2 (User) and documents the respective feedback** to the created prototype "Favorite app for students" from the previous phase 5 - prototype on this template. Double click on the left mouse key to write it down into the feedback grid template.
+
+> After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are swapped.**
+
+* **Student 2 (Developer) interviews Student 1 (User) and documents the respective feedback** too on the **same** feedback grid template.
+
+![Fillin2](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_02.PNG)
 
 
 ## Further Inputs
