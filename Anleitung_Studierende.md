@@ -52,7 +52,7 @@ The template should then be saved as a pdf. file on the PC.
 ### Step 10
 *(Planned time: 45 minutes)* - In **"Phase 6 - Test" (final phase)**, the Feedbackgrid technique on the selected **MURAL template ("Feedback grid" - www.mural.co)** is useful for documenting the respective feedback on the prototypes by a survey/interview of the user and subsequently making possible adjustments of the prototypes.
 
-**In this phase, the students take turns in their roles:** **. 
+**In this phase, the students take turns in their roles:**. 
 * **Student 1** assumes the role of **developer**.
 * **Student 2** assumes the role of **user**.
 * After that, the two roles are swapped.
