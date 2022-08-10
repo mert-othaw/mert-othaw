@@ -87,7 +87,7 @@ So, for example, you can view and show the app you created on the homepage on yo
 
 * Log in to your Marvel account and use the tools from the previous video to design your favorite app.
 
-* Remember that this is a design you want to present to the client and highlight your favorite ideas from Phase 4 - Generate Ideas in the app.
+* Remember that this is a design you want to present to the client and highlight your favorite ideas from "Phase 4 - Ideate" in the app.
 So it should not be too complex in structure and present the favored ideas.
 
 
