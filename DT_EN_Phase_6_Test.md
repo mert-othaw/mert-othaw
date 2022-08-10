@@ -145,7 +145,9 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 ![Share]/Phase_6_Test_Screenshots/08_Share_and_Copy.PNG
 
+**If everything is saved, finish working in this template with going back to dashboard with the following button shown in the following picture.**
 
+![Finish](/Phase_6_Test_Screenshots/09_Finish_Dashboard.PNG)
 
 
 ## Further Inputs
