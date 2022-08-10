@@ -71,7 +71,7 @@ Useful tools/methods for design thinking phase 6 - test:
 * Feedback grid
 * Qualitative validation
 * Qualitative verification
-* User Tests
+* User tests
 
 
 
@@ -161,9 +161,9 @@ Every phase of design thinking is important to create useful solutions! Don't fo
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
 - What is a feedback grid and how to use it? <https://designthinking-methods.de/en/5Testen/testCaptureGrid.html> <https://conceptboard.com/blog/feedback-capture-grid-template/> <<https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
-- What are User Tests and how to use it? <https://designthinking-methods.de/en/5Testen/nutzertests.html>
+- What are User tests and how to use it? <https://designthinking-methods.de/en/5Testen/nutzertests.html>
 - What is mean with (qualitative) validation and how to use it? <https://www.boardofinnovation.com/guides/validation-guide/>
-- 
+
 
 
 
