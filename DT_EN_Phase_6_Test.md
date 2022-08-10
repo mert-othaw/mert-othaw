@@ -154,7 +154,7 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions! Don't forget switching roles "developer" and "user" after 20 minutes to stay in timebox of 45 minutes for this phase.
+Every phase of design thinking is important to create useful solutions! Don't forget switching roles as "developer" and "user" after 20 minutes to stay in our timebox of 45 minutes for this phase.
 
 
 ## Useful Resources for Own Searches
@@ -172,4 +172,4 @@ Please answer the following questions:
 
 1. What is the reason of the design thinking phase "test” and how does it work?
 2. Which methods you can use in this phase?
-
+3. Do you think feedback grid techniques are useful for testing?
