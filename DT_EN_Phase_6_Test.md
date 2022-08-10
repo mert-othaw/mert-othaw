@@ -78,7 +78,7 @@ By our design challenge "Create a favorite app for students" for prototyping we 
 
 
 
-**3.** **Working with Mural Template (POP)**
+**3.** **Working with Mural Template**
 
 
 
