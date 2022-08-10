@@ -141,6 +141,12 @@ For each of these 4 fields, there are also an additional 3 questions noted in th
 
 ![Download](/Phase_6_Test_Screenshots/07_Save_02.PNG)
 
+* You also have to option to share your created mural template if you click on the "Share" Button and copy the link of the POP-UP window if you want to share your created mural template as shown in the following picuture.
+
+![Share]/Phase_6_Test_Screenshots/08_Share_and_Copy.PNG
+
+
+
 
 ## Further Inputs
 
