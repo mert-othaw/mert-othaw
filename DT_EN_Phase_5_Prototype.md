@@ -66,7 +66,11 @@ Useful tools/methods for design thinking phase 5 - prototype:
 
 
 Team members can work with different methods to visualize their the most important ideas or solution by prototyping. It depends on the prototype which method is the most suitable.
-By our design challenge "Create a favorite app for students" for prototyping we will use the POP (Prototyping on Paper) App of Marvel to prototype on your mobile device.
+By our design challenge "Create a favorite app for students" for prototyping we will use the POP (Prototyping on Paper) App of Marvel to prototype on your mobile device or on the homepage of Marvel.
+
+>Sometimes there are some errors when designing the favorite app on the mobile device, if that is the case, please use the homepage of Marvel https://marvelapp.com to design the favorite app. You will notice whether the error occurs when you have created several pages on the mobile device. 
+You can sync your app on the mobile device with your account on the homepage. 
+So, for example, you can view and show the app you created on the homepage on your app on the mobile device.
 
 
 ## Further Inputs
