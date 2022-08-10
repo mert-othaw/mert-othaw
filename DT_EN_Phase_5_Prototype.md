@@ -109,7 +109,7 @@ Every phase of design thinking is important to create useful solutions!
 - What ist prototype through role playing, what is it and how is it used? <https://www.designkit.org/methods/role-play> <https://blog.mjvinnovation.com/design-thinking-2/design-thinking-tool-prototyping-through-role-playing>
 - How to prototype by storytelling? Example: <https://www.youtube.com/watch?v=jmn3XCDvVDE&t=0s>
 - What are Storyboards and how to use it for prototyping? <https://designthinking-methods.de/en/4Prototypen/storyboard.html>
-- What is an MVP? <> 
+- What is an MVP? <https://www.productplan.com/glossary/minimum-viable-product/> <https://www.interaction-design.org/literature/topics/minimum-viable-product> <https://www.eleken.co/blog-posts/design-thinking-minimum-viable-product>
 
 
 
