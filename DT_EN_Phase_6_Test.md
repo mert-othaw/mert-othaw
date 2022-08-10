@@ -88,6 +88,8 @@ Fill in the template independently and, if necessary, use the provided example t
 
 * In the field "Search" you can type in "Feedback grid" if you can't find the Mural Template on the link. 
 
+![Search](/Phase_6_Test_Screenshots/01_Test_Search.PNG) 
+
 
 
 ## Further Inputs
