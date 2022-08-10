@@ -61,6 +61,7 @@ Once the "test phase" has been completed, the DT process is also considered comp
 * While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as a user on the **same** "Feedback grid" Template of Mural.
 
 
+
 **2.**  **Working with useful design thinking tools for testing in phase 6**
 
 Useful tools/methods for design thinking phase 6 - test:
