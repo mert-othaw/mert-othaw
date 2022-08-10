@@ -57,7 +57,7 @@ Once the "test phase" has been completed, the DT process is also considered comp
 In **"Phase 6 - Test"** (final phase), the Feedback grid technique on the selected Mural template **"Feedback grid"** on the homepage of Mural is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
 
 
-For documenting the feedback, students take turns in their roles as a "developer" and "user".
+>For documenting the feedback, students take turns in their roles as a "developer" and "user".
 
 * **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
 * While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
