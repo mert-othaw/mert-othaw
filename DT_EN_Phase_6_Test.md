@@ -94,6 +94,22 @@ Fill in the template independently and, if necessary, use the provided example t
 
 ![Create](/Phase_6_Test_Screenshots/02_Create_Mural.PNG)
 
+**Before you start to fill the created mural template, here are some hints you can use.**
+
+1. Name your template
+
+![Name](/Phase_6_Test_Screenshots/04_Name_your_template.PNG)
+
+2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar you can use to fill your template or visualize and document your respective "user" feedback.
+
+![Widgets](/Phase_6_Test_Screenshots/05_Widgets.PNG)
+
+3. You can also set a timer in your mural, while working in your created mural template.
+
+![Timer](/Phase_6_Test_Screenshots/06_Timer.PNG)
+
+4. Double click on the left mouse key if you want to write or type something into the Feedback grid template.
+
 
 
 
