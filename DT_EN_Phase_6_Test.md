@@ -48,11 +48,15 @@ Therefore, sometimes feedback is required to implement efficient optimizations a
 Once the "test phase" has been completed, the DT process is also considered complete. 
 
 
+>In this phase, in our design thinking team of 2 students, the students take turns in their roles as a "developer" and "user" and note their feedback in **1 Template.**
 
 
 
->In "Phase 6 - Test" (final phase), the Feedbackgrid technique on the selected Mural template ("Feedback grid" - www.mural.co) is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
-**In this phase, the students take turns in their roles as a "developer" and "user". (Team of 2 Students)**
+**2.**  **Working with useful design thinking tools for testing in phase 6**
+
+In **"Phase 6 - Test"** (final phase), the Feedbackgrid technique on the selected Mural template ("Feedback grid" - www.mural.co) is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
+
+For documenting the respective feedback, students turns into their roles as a "developer" and "user".
 
 * **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
 * While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
@@ -60,9 +64,7 @@ Once the "test phase" has been completed, the DT process is also considered comp
 * **Student 2** assumes the role as **developer** and interviews **Student 1** with the role as an **user**. 
 * While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as a user on the **same** "Feedback grid" Template of Mural.
 
-
-
-**2.**  **Working with useful design thinking tools for testing in phase 6**
+Fill in the template independently and, if necessary, use the provided example template ("Feedbackgrid.pdf") as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you could have a look at some tips for the interviews or questionings in the provided file "Interviewing.pdf ".).
 
 Useful tools/methods for design thinking phase 6 - test:
 
