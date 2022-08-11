@@ -130,7 +130,7 @@ Don't forget to sync your Marvel account on your mobile device!
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- How to use the prototyping App of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk>
+- How to use the prototyping app of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk>
 - What are Prototypes build from a paper and how to do it? <https://designthinking-methods.de/en/4Prototypen/papierprototyp.html>
 - What are Mock-ups and how to use it? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups> <https://designthinking-methods.de/en/4Prototypen/mockups.html>
 - What is prototyping by role playing and how to use it? <https://designthinking-methods.de/en/4Prototypen/rollenspiel.html>
