@@ -45,7 +45,7 @@ This makes it possible to get initial feedback from the users. This prototype is
 
 
 
->For "Phase 5 - Prototype " use together in a team of 2 for prototyping your mobile device or PC with Marvel's POP app (Prototyping on Paper app) to design and save your prototype in this mobile app or on the homepage of Marvel. (You can use a designed example as a guide, but let your creativity run wild.)
+>For "Phase 5 - Prototype " use together in a team of 2 for prototyping your mobile device or notebook with Marvel's POP app (Prototyping on Paper app) to design and save your prototype in this mobile app or on the homepage of Marvel. (You can use a designed example as a guide, but let your creativity run wild.)
 
 
 **2.**  **Working with useful design thinking tools for prototyping in phase 5**
