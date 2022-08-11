@@ -95,10 +95,27 @@ Therefore, you can view and present the app you created on the homepage, also yo
 
 * For example my favored ideas where "the meal of the day in the canteen", "Navigation to lecture rooms", "Examination Office", and a "Quiz Game for Students".
 
+![Favored](/Phase_5_Prototype_Screenshots/00_Favored_ideas.PNG)
 
+* If you press "play", you can show how it will look on the media you chose, i chose "Iphone" as i created my project on the Marvel homepage.
 
-* So this is my basic prototype created on the homepage of marvel.
+![Press](/Phase_5_Prototype_Screenshots/02_Press_Play.PNG)
 
+* So this is the first page of my prototype created on the homepage of marvel, and how it looks on the Iphone.
+
+![Prototype](/Phase_5_Prototype_Screenshots/01_Prototype_on_Iphone.PNG)
+
+> As an example you can find my full created prototype on the following link: <https://marvelapp.com/prototype/ie25j54>
+
+* If you like to share your created prototype click on the "Share" button.
+
+![Share](/Phase_5_Prototype_Screenshots/03_Share.PNG)
+
+* On the opening Pop Up click on "Copy" to copy the link of your prototype.
+
+![Copy](/Phase_5_Prototype_Screenshots/03_Share_and_copy_02.PNG)
+
+Once you have synced your Marvel account with your mobile device, you can demo your created prototype (student app) on the homepage as well as on your mobile device. 
 
 
 
@@ -107,6 +124,7 @@ Therefore, you can view and present the app you created on the homepage, also yo
 ## Hints
 
 Don't forget to watch this introduction video before prototyping with Marvel <https://www.youtube.com/watch?v=1439vIj-yDk> !
+Don't forget to sync your Marvel account on your mobile device!
 
 
 ## Useful Resources for Own Searches
