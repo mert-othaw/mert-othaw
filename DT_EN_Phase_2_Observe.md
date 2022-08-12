@@ -28,7 +28,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 1 is passed, the second phase follows, which is called **Observe**. 
+After Phase 1 has passed the second phase follows which is called **Observe**. 
 
 
 > Be cautious of the running timer shown by your instructor. 
