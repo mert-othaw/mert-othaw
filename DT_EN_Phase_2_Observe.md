@@ -15,7 +15,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 2 - observe means
+- You learn what Design Thinking "phase 2 - observe" means
 
 ## Required Equipment
 - Notebook
