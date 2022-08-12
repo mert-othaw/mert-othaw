@@ -17,7 +17,7 @@ The preparation for the Learning Lab "Design Thinking" consists of
   * On the homepage, you can select the "Launch now" option (without registration) and get started right away or select the "Or sign up for free" option (with registration). 
 
 The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid design thinking module: 
-- Time
+- Clock
 - Timer set with the scheduled time for a regulated flow of the design thinking module (see "schedule.md")
 - stopwatch 
 - text
