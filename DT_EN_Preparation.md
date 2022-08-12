@@ -21,7 +21,7 @@ The following "widgets" are recommendations for the screen setup for a successfu
 - Timer set with the scheduled time for a regulated flow of the design thinking module (see "schedule.md")
 - stopwatch 
 - text
-- QR codes for download for Git software, GitHub or GitHub link to PC.
+- QR codes for download of Git software, GitHub or GitHub link to PC.
 - QR code for download POP app (app for prototyping) to mobile device.
 - QR code with link to homepage for MURAL (with or without recommended templates).
 - Survey (e.g. current status of teams).
