@@ -15,7 +15,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 3 - define point of view means
+- You learn what Design Thinking "phase 3 - define point of view" means
 
 ## Required Equipment
 - Notebook
@@ -24,27 +24,26 @@ Author: Mert Ünal 		Date: 2022
 
 ## Timebox
 
-2 x 30 min
+60 min
 
 ## Solutions Steps
 
-After Phase 1 and Phase 2 is passed, we can continue with the third phase, which is called **Define point of view**. 
+After Phase 1 and Phase 2 are passed the third phase follows which is called **Define point of view**. 
+
+> Be cautious of the running timer shown by your instructor. 
 
 
-> Be careful on the running timer of your instructor. 
+**1.**  **Let’s check, what "phase 3 - define point of view" is stands for in Design Thinking!**
 
-
-**1.**  **Let’s check, what phase 3 - define point of view is standing for in design thinking!**
-
-In the "Define point of view" phase, the insights gained by the entire team in the previous observation phase are summarized. With the mutually gained basis, user profiles of the typical users are created and fully described. For these fictitious persons, it is important to separate relevant data and facts for the problem to be solved from less relevant ones and then prioritize them according to importance.
+In the "Define point of view" phase the insights, gained by the entire team in the previous observation phase, are summarized. With the mutually gained basis, user profiles of the typical users are created and fully described. For these fictitious persons, it is important to separate relevant data and facts for the problem to be solved from less relevant ones and then prioritize them according to importance.
 
 
 
->In our design thinking team of 2 Students, at first student 1 can define his point of view (30 minutes) and than student 2 can define his point of view (30 minutes) and look if they have the same point of view, because they need to define together as a team one point of view. It's very important to have only 1 point of view per group also every team member has the same basis for the following phases.
+>In our Design Thinking team of 2 students, the student 1 should define his point of view (timebox of 20 minutes) first and then the student 2 should define his point of view (timebox of 20 minutes) second. Finally the students must balance their arguments and come to a combination of their views (timebox of 10 min). The result must contain an agreed and joint defined point of view. It's very important to have only 1 point of view per group so that every team member has the same basis for the following phases.
 
-**2.**  **Working with useful design thinking tools for defining the point of view in phase 3**
+**2.**  **Working with useful Design Thinking tools for defining the point of view in phase 3**
 
-Useful tools/methods for design thinking phase 3 - define point of view:
+Useful tools/methods for Design Thinking "phase 3 - define point of view":
 
 * Storytelling
 * Persona
@@ -56,7 +55,7 @@ Useful tools/methods for design thinking phase 3 - define point of view:
 * User Journey Map – User Stories
 
 
-Team members can work with this methods to get the same basis and prefer the most important facts to be solved in the following phases 4-6. By our design challenge "Create a favorite app for students" i would prefer the "How might we.. question" method because in this case you as students for example don't need a persona for students. If the team defined their point of view, with the "How might we.." questions method you can prepare for the following phase - ideate. Write down your "how might we.." questions on a paper and answer them with the focus on the design challenge creating a favorite app for students or a better app than the existing apps.
+Team members can work with this methods to get the same basis and to prefer the most important problems to be solved in the following phases 4-6. By our Design Challenge "Create a favorite app for students" The "How might we.. question" method is the most simpliest in this case, because you as students don't need a persona for students. If the team defined their point of view, with the "How might we.." questions method you can prepare for the following phase - ideate. Write down your "how might we.." questions on a paper and answer them with the focus on the design challenge creating a favorite app for students or a better app than the existing apps.
 
 ## Further Inputs
 
