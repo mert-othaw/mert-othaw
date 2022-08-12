@@ -32,4 +32,4 @@ The following "widgets" are recommendations for the screen setup for a successfu
 
 
 
-*If you encounter any difficulties in implementation, you can refer to the sample screenshots for setting up the classroom screen in the folder /Classroomscreen_Images* (**01_Classroomscreen_Launch.PNG,02_Classroomscreen_Example.png,03_Widgets.png,04_QR-Codes_Mural_and_PopApp.PNG,05_Poll_Widget_Example.PNG**).
+*If you encounter any difficulties in implementation, you can refer to the sample screenshots for setting up the classroom screen in the folder /Classroomscreen_Images* (**01_Classroomscreen_Launch.PNG, 02_Classroomscreen_Example.PNG, 03_Widgets.PNG, 04_QR_Codes_01.PNG, 04_QR_Codes_02.PNG, 05_Poll_Widget_Example.PNG**). 
