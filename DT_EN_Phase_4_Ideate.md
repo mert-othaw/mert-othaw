@@ -128,17 +128,17 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Fill](/Phase_4_Ideate_Screenshots/05_Double_Tap_to_fill_.PNG)
 
-* In a group of 2 students,the squares of person 1 (student 1) and person 2 (student 2) can be filled with the generating ideas by brainstorming in this mural template.
+* In a group of 2 students,the squares can be filled in with the generating ideas by brainstorming in the same mural template. Student 1 fills in his ideas in the squares for person 1. Student 2 fills in his ideas in the squares for person 2.
 
 ![Brainstorm](/Phase_4_Ideate_Screenshots/05_Brainstorm_ideas_01.PNG)
 
 
-* At **point 3** in this template you can **group your ideas** - so you can cluster similar ideas from non-similar ideas. With **"ctrl-c"** you can copy your previous written ideas in the orange squares from **point 2** and paste it with **"ctrl-v"** to **point 3** in this template.
+* In **point 3** in this template the **ideas can be grouped** - so you can cluster similar ideas from non-similar ideas. With **"ctrl-c"** you can copy your previous written ideas in the orange squares from **point 2** and paste it with **"ctrl-v"** to **point 3** in this template.
 
 ![Group](/Phase_4_Ideate_Screenshots/05_Group_ideas_02.PNG)
 
-* At **point 4** in this template you can **prioritize your ideas** in the given diagram. With **"ctrl-c"** you can copy your previous written and grouped ideas from **point 3** and paste **"ctrl-v"** them to **point 4** to prioritize them according to importance and feasibility as shown in the diagram.
-You can move the squares by **"drag and pull"** them.
+* In **point 4** in this template you can **prioritize your ideas** in the given diagram. With **"ctrl-c"** you can copy your previous formed and grouped ideas from **point 3** and paste **"ctrl-v"** them to **point 4** to prioritize them according to importance and feasibility as shown in the diagram.
+You can move the squares by **"draging and pulling"** them.
 
 ![Prioritize](/Phase_4_Ideate_Screenshots/05_Prioritize_ideas_03.PNG)
 
@@ -156,18 +156,18 @@ You can move the squares by **"drag and pull"** them.
 
 ![Download](/Phase_4_Ideate_Screenshots/09_Save_your_template_02_DL.PNG)
 
-* You also have to option to share your created mural template if you click on the "Share" Button.
+* You also have the option to share your created mural template by clicking on the "Share" Button.
 
 ![Share](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_01.PNG)
 
-* Copy the link if you want to share your created mural template as shown in the following picuture. 
+* Copy the link if wanted to share the created mural template as shown in the following picuture. 
 
 ![Link](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_02.PNG)
 
 
 
 
-**If everything is saved, finish working in this template with going back to dashboard with the following button shown in the following picture.**
+**If everything is saved, you can finish your work in this template by going back to the dashboard with the button shown in the following picture.**
 
 ![Finish](/Phase_4_Ideate_Screenshots/10_go_back_to_dashboard.PNG)
 
@@ -176,7 +176,7 @@ You can move the squares by **"drag and pull"** them.
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions! 
+Every phase of Design Thinking is important to create useful solutions! 
 Design Thinking Phases 1-3: Understand the problem.
 Design Thinking Phases 4-6: Solve the problem or create solutions for the problem.
 
@@ -184,11 +184,11 @@ Design Thinking Phases 4-6: Solve the problem or create solutions for the proble
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- How to Brainstorm and why is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/brainstorming.html>
+- How to Brainstorm and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/brainstorming.html>
 - Brainstorm and idea prioritization Template of Mural: <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>
 - What is the How-Now-Wow matrix and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/how-wow-now.html>
 - What is the 6-3-5 method and how is it used? <https://www.designthinking-methods.com/en/3Ideenfindung/6-3-5.html> 
-- What is a Moodboard and how to create it? <https://uxdesign.cc/using-moodboards-in-the-design-process-b61979ad7149>
+- What is a Moodboard and how is it created? <https://uxdesign.cc/using-moodboards-in-the-design-process-b61979ad7149>
 - What is the 5 Whys method and how is it used? <https://www.designthinking-methods.com/en/1Empathie/5-warum.html>
 
 
@@ -199,4 +199,4 @@ Design Thinking Phases 4-6: Solve the problem or create solutions for the proble
 Please answer the following questions: 
 
 1. What is the reason of the design thinking phase "ideate” and how does it work?
-2. Which methods you can use in this phase?
+2. Which methods can be used in this phase?
