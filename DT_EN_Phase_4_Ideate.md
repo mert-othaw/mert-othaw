@@ -15,7 +15,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 4 - ideate means
+- You learn what Design Thinking "phase 4 - ideate" means
 
 ## Required Equipment
 - Notebook
@@ -29,37 +29,35 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 1 - 3 is passed, we can continue with the fourth phase, which is called **Ideate**. In this Phase 4 we come over to create solution for our defined problem in the previous phases.
+After phase 1 - 3 have passed the fourth phase follows which is called **ideate**. In this "phase 4 - ideate" we pass over to create solution for our defined problem in the previous "phase 3".
 
-So we go over from understanding the problem and start to solve the problem.After the problem or the design challenge that needs to be solved is understood, it is about **solving the problem**. 
-This is done in phases 4 - 6 of design thinking: **"Phase 4 - Ideate, Phase 5 - Prototype, Phase 6 - Test. "**.
-We will start with **phase 4 - ideate**.
-
-
-> Be careful on the running timer of your instructor. 
+So we devolve from understanding the problem (Phase 1 - 3) to start solving the problem. This is done in phases 4 - 6 of Design Thinking: **"phase 4 - ideate, phase 5 - prototype, phase 6 - test. "**.
+Let's get started with "**phase 4 - ideate**".
 
 
-**1.**  **Let’s check, what phase 4 - ideate is standing for in design thinking!**
-
-From this phase, the search for solutions for the previously identified problems begins. It is important to generate as many ideas and solutions as possible in the shortest possible time. 
-This takes place in the form of various brainstorming techniques, which are particularly well suited for this purpose. Here, all creative ideas and solution approaches are accepted and collected. 
-After the extensive collection of ideas, they are evaluated and prioritized.
+> Be cautious of the running timer of your instructor. 
 
 
+**1.**  **Let’s check, what "phase 4 - ideate" is standing for in Design Thinking!**
 
->In our design thinking team of 2 Students the ideas are generated and prioritized and noted together in 1 Template.
-
-
-**2.**  **Working with useful design thinking tools for ideate in phase 4**
-
-
-In **"Phase 4 - Ideate "**, ideas are generated, prioritized and noted **together in a team of 2** using the brainstorming technique, on the selected **Mural template "Brainstorm & idea prioritization": <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca> on the Homepage of Mural - <https://www.mural.co/>**. 
-
-Fill in the template independently, using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
-The template should then be saved as a pdf. file on the PC.
+From this phase on, the search for solutions for the previously identified problems begins. It is important to generate as many ideas and solutions as you can in the shortest possible time. 
+This will be performed in form of various brainstorming techniques, which are particularly well suited for this purpose. Here, all creative ideas and solution approaches are accepted and collected. 
+After the extensive collection of ideas, these ideas should be evaluated and prioritized.
 
 
-Useful tools/methods for design thinking phase 4 - ideate:
+>In our Design Thinking team of 2 Students the ideas are generated, prioritized and then noted together in 1 Mural Template.
+
+
+**2.**  **Working with useful Design Thinking tools for ideate in phase 4**
+
+
+In **"phase 4 - ideate"** ideas are generated, prioritized and noted **together in a team of 2** using a brainstorming technique with the **Mural template "Brainstorm & idea prioritization": <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca> on the homepage of Mural - <https://www.mural.co/>**. 
+
+Fill in the template independently using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
+The template should then be saved as a PDF.file on the notebook.
+
+
+Useful tools/methods for Design Thinking "phase 4 - ideate":
 
 * Brainstorming (different brainstorming techniques)
 * How-Now-Wow matrix
@@ -69,13 +67,13 @@ Useful tools/methods for design thinking phase 4 - ideate:
 
 
 
-Team members can work with this methods to ideate for possible solutions. By our design challenge "Create a favorite app for students" i would prefer the "brainstorming" method to create ideas, note and prioritize it in the selected Mural Template. Also "brainstorming" is one of the most established method for generating ideas.
+Team members can work with this methods to ideate for possible solutions. By our Design Challenge "create a favorite app for students" the "brainstorming" method is the most suitable one to create ideas, note and prioritize the ideas in the selected Mural Template. Furthermore "brainstorming" is one of the most established method for generating ideas.
 
-**3.**  **Working with Mural-Template**
+**3.**  **Working with the Mural-Template**
 
-* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and than choose your Mural Template named "Brainstorm & idea prioritization". You can find this template on this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
+* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and then choose the Mural Template named "Brainstorm & idea prioritization". You can find this template under this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
 
-* In the field "Search" you can type in "Brainstorm & idea prioritization" if you can't find the Mural Template on the link. 
+* If you can't find the Mural Template on this link type in "Brainstorm & idea prioritization" in the field "Search".
 
 ![Search](/Phase_4_Ideate_Screenshots/01_Ideate_Search.PNG) 
 
@@ -92,17 +90,17 @@ Team members can work with this methods to ideate for possible solutions. By our
 ![Create](/Phase_4_Ideate_Screenshots/03_Create_mural_2.PNG)
 
 
-**Before you start to fill the created mural template, here are some hints you can use.**
+**Before you start to fill in the created mural template, here are some useful hints.**
 
 1. Name your template
 
 ![Name](/Phase_4_Ideate_Screenshots/06_Name_your_template.PNG)
 
-2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar you can use to fill your template or visualize your ideas.
+2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar that can be used to fill in templates or visualize the ideas.
 
 ![Widgets](/Phase_4_Ideate_Screenshots/06_Widgets_for_filling_template.PNG)
 
-3. You can also set a timer in your mural, while working in your created mural template.
+3. Also a timer can be set easily in your created mural during editing.
 
 ![Timer](/Phase_4_Ideate_Screenshots/07_Timer_in_Template.PNG)
 
@@ -110,9 +108,9 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 ![Outline](/Phase_4_Ideate_Screenshots/08_Outline_for_hints.PNG)
 
-5. Double click on the left mouse key if you want to write or type something into the template.
+5. Double click on the left mouse key to write or type something into the template.
 
-6. In the following picture you can see how to zoom in and out with the "-" and "+" button in this template.
+6. In the following picture shows how to zoom in and out with the "-" and "+" button in this template.
 
 ![Zoom](/Phase_4_Ideate_Screenshots/04_Zoom_in_and_out.PNG)
 
@@ -120,17 +118,17 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 
 
-**Start to work and fill this template**. 
+**Start to work and fill in this template**. 
 
-* You can write down your previous defined point of view with your "how might we..." questions of the previous design thinking phase 3 if you like **at number 1 of this mural template**. Double click on the left mouse key to write it down.
+* You can write down the defined point of view with the formed "how might we..." questions of the previous Design Thinking "phase 3" if you like **at number 1 of this mural template**. Double click on the left mouse key to write it down.
 
 ![Problem](/Phase_4_Ideate_Screenshots/05_Define_POV_00.PNG)
 
-* And than switch to **point 2 in this template** to **brainstorm** and write down your generated ideas. Double click on to the orange square to fill. 
+* And then switch to **point 2 in this template** to **brainstorm** and write down your generated ideas. Double click on to the orange square to fill it in. 
 
 ![Fill](/Phase_4_Ideate_Screenshots/05_Double_Tap_to_fill_.PNG)
 
-* In a group of 2 students, they can fill the squares of person 1 and person 2 with your generating ideas by brainstorming in this mural template.
+* In a group of 2 students,the squares of person 1 (student 1) and person 2 (student 2) can be filled with the generating ideas by brainstorming in this mural template.
 
 ![Brainstorm](/Phase_4_Ideate_Screenshots/05_Brainstorm_ideas_01.PNG)
 
