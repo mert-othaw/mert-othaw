@@ -20,8 +20,9 @@ Summer Semester 22 | Learning Lab "Digital Technologies" |
 - Notebook
 - Internet access
 - Mobile Device
-- Mural (https://www.mural.co/)
-- POP-App Marvel (https://marvelapp.com/pop)
+- Mural (<https://www.mural.co/>)
+- POP-App Marvel (<https://marvelapp.com/pop>)
+- Git (<https://git-scm.com/downloads>)
 
 ## Solutions Steps
 
