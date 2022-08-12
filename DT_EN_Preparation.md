@@ -22,9 +22,9 @@ The following "widgets" are recommendations for the screen setup for a successfu
 - stopwatch 
 - text
 - QR codes for download of Git software, GitHub or GitHub link to PC.
-- QR code for download POP app (app for prototyping) to mobile device.
-- QR code with link to homepage for MURAL (with or without recommended templates).
-- Survey (e.g. current status of teams).
+- QR code for redirection to the website of Marvel with the option of downloading the POP app (app for prototyping) on your mobile device.
+- QR code with link to homepage for Mural.
+- Poll (e.g. current status of teams).
 
 Select the **widgets** you need: (*Info: In the settings there is the possibility to select different languages for the widgets, such as "German" for a German-language element selection of the widgets).
 - **Poll widget** for possible polls (current status etc.).
