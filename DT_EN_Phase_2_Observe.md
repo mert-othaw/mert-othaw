@@ -75,4 +75,4 @@ Every phase of design thinking is important to create useful solutions!
 Please answer the following questions: 
 
 1. What is the reason of the Design Thinking phase "observe” and how does it work?
-2. Which methods can you use in this phase?
+2. Which methods can be used in this phase?
