@@ -9,7 +9,7 @@ Author: Mert Ünal 		Date: 2022
 2022 Summer Semester | Learning Lab "Digital Technologies" |  
 
 ***
-# Assignment 01: Introduction
+# Assignment 01: Introduction Instructor
 
 ## Objectives
 - You will get a first impression about design thinking and Gitlab
