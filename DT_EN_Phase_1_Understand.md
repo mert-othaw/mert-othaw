@@ -15,7 +15,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 1 - understand means
+- You learn what design thinking "phase 1 - understand" means
 
 ## Required Equipment
 - Notebook
@@ -28,20 +28,20 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After the Design Challenge is known, we can now start with the first phase, which is called **Understand**. 
+After the Design Challenge is clear, we can now start with the first phase which is called **Understand**. 
 
 
-> Be careful on the running timer of your instructor. 
+> Be cautious of the running timer shown by your instructor. 
 
 
-**1.**  **Let’s check, what phase 1 - understand is standing for in design thinking!**
+**1.**  **Let’s check what "phase 1 - understand" stands for in design thinking!**
 
-In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as Design thinkers should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
+In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as a Design thinker should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
 
 
 **2.**  **Working with useful design thinking tools for understanding in phase 1**
 
-Useful tools/methods for design thinking phase 1 - understand:
+Useful tools/methods for design thinking "phase 1 - understand":
 
 * Mindmapping
 * Charette
@@ -49,7 +49,7 @@ Useful tools/methods for design thinking phase 1 - understand:
 * Steakholder Map
 * User Journey Map
 
-These are useful methods to understand the Design Challenge "Create a favorite app for students". It's not that hard to understand this Design Challenge, but i would prefer to try the mindmapping method in your team. The explanation of the mindmapping method and how to work with this method, you can find at this link <https://www.designthinking-methods.com/en/1Empathie/mindmappingEM.html>. 
+These are useful methods to understand the Design Challenge "Create a favorite app for students". Don't worry to much about understanding the Design Challenge "Create a favorite students app" because as students you already have a good overview about the problem. The mindmapping method is the most suitable method for this Design Challenge in your team and therefore recommended. The description and application of the mindmapping method, can be found at this link <https://designthinking-methods.de/en/1Empathie/mindmappingEM.html>.
 
 
 
@@ -64,6 +64,11 @@ Every phase of design thinking is important to create useful solutions!
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
+- What is Mindmapping and how is it used? <https://designthinking-methods.de/en/1Empathie/mindmappingEM.html>
+- What is Charette and how is it used? <https://nativdigital.com/charette-methode/> 
+- What is a Semantic analysis and how is it used? <https://peakberlin.com/tool/semantic-analysis>
+- What is a Steakholder Map and how is it used? <https://www.ibm.com/design/thinking/page/toolkit/activity/stakeholder-map> <https://www.youtube.com/watch?v=7SAJPR1ph6s>
+- What is an User Journey Map and how is it used?<https://www.usability.de/en/services/methods/user-journey-mapping.html> <https://www.optimizely.com/de/optimization-glossary/user-journey-map/>
 
 ## Assignment Review
 
@@ -71,6 +76,6 @@ Every phase of design thinking is important to create useful solutions!
 Please answer the following questions: 
 
 1. What is the reason of the design thinking phase "understand” and how does it work?
-2. Which methods you can use in this phase?
+2. Which methods can be used in this phase?
 
 
