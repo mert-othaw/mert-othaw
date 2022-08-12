@@ -45,22 +45,22 @@ Play/Share video or PowerPoint to provide an **overview and a basic understandin
 **Announcement of lunch break of 30 minutes**.
 
 ### Step 8
-**Phase 4 - Ideate:** using brainstorming technique; have MURAL template (www.mural.co) labeled **"Brainstorm & idea prioritization "** (see example: "Ideen generieren und priorisieren.pdf") on hand and **start poll with poll widget in Classroomscreen** to check if students have **"Brainstorm & idea prioritization" template from Mural** available. **Run timer widget of 60 minutes** again on classroom screen.
+**Phase 4 - Ideate:** using a brainstorming technique; have the MURAL template (www.mural.co) labeled as **"Brainstorm & idea prioritization "** (see example: "Ideen generieren und priorisieren.pdf") aside and **start poll with poll widget in Classroomscreen** to check if the **"Brainstorm & idea prioritization" template from Mural** is available for the students. **Run timer widget of 60 minutes** again on the classroom screen.
 
 ### Step 9
-**Phase 5 - Prototype:** Students will design and save their prototype on their mobile device using Marvel's POP APP. **Start survey using Poll widget in Classroomscreen** to check if the app works for students, if not the prototype should be displayed on a piece of paper. **Run timer widget of 60 minutes** again on classroom screen.
+**Phase 5 - Prototype:** Students will design and save their prototype on their mobile device using Marvel's POP app (or the homepage of Marvel directly). **Start survey using Poll widget in Classroomscreen** to check if the app works for students, if it doesn't, the prototype should be displayed on a piece of paper. **Run timer widget of 60 minutes** again on classroom screen.
 
 ### Step 10
-**Announcement of coffee break of 15 minutes**.
+**Announcement of a coffee break of 15 minutes**.
 
 ### Step 11
-**Phase 6 - Test:** **using the feedbackgrid;** MURAL template (www.mural.co) labeled **"Feedbackgrid "** (see example: **"Feedbackgrid.pdf "**) on hand and **start survey with poll widget in classroomscreen,** to check if students have the **"Feedbackgrid" template from Mural** available. **Run timer widget of 45 minutes** again on classroom screen.
+**Phase 6 - Test:** **using the feedbackgrid;** have aside the MURAL template (www.mural.co) labeled as **"Feedbackgrid "** (see example: **"Feedbackgrid.pdf "**) and **start survey with poll widget in classroomscreen,** to check if the **"Feedbackgrid" template from Mural** is available for students. **Run timer widget of 45 minutes** again on classroom screen.
 
 ### Step 12
-**Presentation of the results (or the designed prototypes) by the student groups** in 3-5 minutes per group (team of 2). **Start stopwatch widget** per group on classroom screen to keep within maximum available 5 minutes - optionally **run timer widget of 5 minutes** again on classroom screen instead of **stopwatch widget**.
+**Presentation of the results (or the designed prototypes) by the students groups** within the available timebox of 3-5 minutes per group (team of 2). **Start the stopwatch widget** per group on classroom screen to stay within the maximum available time of 5 minutes.
 
 ### Step 13
-scheduled time buffer (if needed), otherwise **Give an official farewell to the students and end module** for example with a final **poll in classroomscreen using Poll widget** whether or not students were able to acquire new digital technology skills (Yes/No) - or whether or not students had fun (Yes/No).
+scheduled time buffer if needed, otherwise **Give an official farewell to the students and end module** for example with a final **poll in classroomscreen using the poll widget** to check whether or not students were able to acquire new digital technology skills (Yes/No) - or whether or not students had fun (Yes/No).
 
 
 
@@ -75,7 +75,7 @@ If you have any questions to the students, you can use the poll-widget on classr
 - DT techniques/methods: <https://www.designthinking-methods.com/en/>
 - The Design Thinking Process (in 5 Steps) <https://www.youtube.com/watch?v=_r0VX-aU_T8>
 - What is Classroomscreen? <https://help.classroomscreen.com/en/article/what-is-classroomscreen>
-- How to use Classroomscreen? <https://classroomscreen.com/blog/how-to-use-classroomscreen-for-distance-learning>
-- What is Mural?<https://www.youtube.com/watch?v=mBFFpsy-RUo>  <https://support.mural.co/en/articles/2113691-what-is-mural> 
+- How is Classroomscreen used? <https://classroomscreen.com/blog/how-to-use-classroomscreen-for-distance-learning>
+- What is Mural? <https://www.youtube.com/watch?v=mBFFpsy-RUo>  <https://support.mural.co/en/articles/2113691-what-is-mural> 
 
 
