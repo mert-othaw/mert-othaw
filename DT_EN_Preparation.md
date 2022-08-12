@@ -17,18 +17,18 @@ The preparation for the Learning Lab "Design Thinking" consists of
   * On the homepage, you can select the "Launch now" option (without registration) and get started right away or select the "Or sign up for free" option (with registration). 
 
 The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid design thinking module: 
+
 - **Clock widget** for displaying the current time.
 - **Timer widget** for keeping up with the timebox and the respective techniques of the different phases of Design Thinking.
 - **Stopwatch widget** e.g. for stopping the available time of the students final presentations at the end of the workshop. 
 - **Text widget** for specifying instructions, history, etc.
 - **QR-Code-Widget** for download of the needed software for PC and mobile device: Mural (<https://mural.co/>), POP app of Marvel (<https://marvelapp.com/pop>) with the option of downloading the app on the mobile device, Git software (<https://git-scm.com/downloads>).
-dhgiuasididg
-- 
-- QR codes for download of Git software, GitHub or GitHub link to PC.
-- Poll (e.g. current status of teams).
-
-Select the **widgets** you need: (Info: In the settings there is the possibility to select different languages for the widgets)
 - **Poll widget** for possible polls (current status etc.).
+
+>Additional information: 
+>The browser-based software gitlab <https://about.gitlab.com/> is needed if the design thinking stream is uploaded on the homepage <https://www.ll4dt.org/>.
+>If not, you can open these files in the github link <https://github.com/mert-othaw/mert-othaw>. 
+
 
 
 
