@@ -101,7 +101,7 @@ Therefore, you can view and present the app you created on the homepage also on 
 
 ![Press](/Phase_5_Prototype_Screenshots/02_Press_Play.PNG)
 
-* So this is the first page of my prototype created on the homepage of marvel, and how it looks on the Iphone.
+* This is the first page of my prototype created on the homepage of marvel and an example of how it looks like on the Iphone.
 
 ![Prototype](/Phase_5_Prototype_Screenshots/01_Prototype_on_Iphone.PNG)
 
@@ -115,7 +115,7 @@ Therefore, you can view and present the app you created on the homepage also on 
 
 ![Copy](/Phase_5_Prototype_Screenshots/03_Share_and_copy_02.PNG)
 
-Once you have synced your Marvel account with your mobile device, you can demo your created prototype (student app) on the homepage as well as on your mobile device. 
+Once you have synced your Marvel account with your mobile device, you can demo your created prototype (students app) on the homepage as well as on your mobile device. 
 
 
 
@@ -130,13 +130,13 @@ Don't forget to sync your Marvel account on your mobile device!
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- How to use the prototyping app of Marvel? <https://www.youtube.com/watch?v=1439vIj-yDk>
-- What are Prototypes build from a paper and how to do it? <https://designthinking-methods.de/en/4Prototypen/papierprototyp.html>
-- What are Mock-ups and how to use it? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups> <https://designthinking-methods.de/en/4Prototypen/mockups.html>
-- What is prototyping by role playing and how to use it? <https://designthinking-methods.de/en/4Prototypen/rollenspiel.html>
+- How is the prototyping app of Marvel used? <https://www.youtube.com/watch?v=1439vIj-yDk>
+- What are Prototypes build from paper and how can they be built? <https://designthinking-methods.de/en/4Prototypen/papierprototyp.html>
+- What are Mock-ups and how are they used? <https://www.interaction-design.org/literature/book/the-glossary-of-human-computer-interaction/mock-ups> <https://designthinking-methods.de/en/4Prototypen/mockups.html>
+- What is prototyping by role playing and how is it used? <https://designthinking-methods.de/en/4Prototypen/rollenspiel.html>
 <https://www.designkit.org/methods/role-play> <https://blog.mjvinnovation.com/design-thinking-2/design-thinking-tool-prototyping-through-role-playing>
-- How to prototype by storytelling? Example: <https://www.youtube.com/watch?v=jmn3XCDvVDE&t=0s>
-- What are Storyboards and how to use it for prototyping? <https://designthinking-methods.de/en/4Prototypen/storyboard.html>
+- How to prototype by storytelling, an example: <https://www.youtube.com/watch?v=jmn3XCDvVDE&t=0s>
+- What are Storyboards and how can they be used for prototyping? <https://designthinking-methods.de/en/4Prototypen/storyboard.html>
 - What is an MVP? <https://www.productplan.com/glossary/minimum-viable-product/> <https://www.interaction-design.org/literature/topics/minimum-viable-product> <https://www.eleken.co/blog-posts/design-thinking-minimum-viable-product>
 
 
@@ -146,6 +146,6 @@ Don't forget to sync your Marvel account on your mobile device!
 ## Retrospective
 Please answer the following questions: 
 
-1. What is the reason of the design thinking phase "prototype” and how does it work?
-2. Which methods you can use in this phase?
-3. What was it like working with Marvel's prototyping app?
+1. What is the reason of the Design Thinking phase "prototype” and how does it work?
+2. Which methods can be used in this phase?
+3. What was it like working with the Marvel's prototyping app?
