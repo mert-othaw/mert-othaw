@@ -15,7 +15,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking "phase 1 - understand" means
+- You learn what Design Thinking "phase 1 - understand" means
 
 ## Required Equipment
 - Notebook
@@ -36,12 +36,12 @@ After the Design Challenge is clear, we can now start with the first phase which
 
 **1.**  **Let’s check what "phase 1 - understand" stands for in design thinking!**
 
-In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as a Design thinker should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
+In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as a Design Thinker should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
 
 
-**2.**  **Working with useful design thinking tools for understanding in phase 1**
+**2.**  **Working with useful Design Thinking tools for understanding in phase 1**
 
-Useful tools/methods for design thinking "phase 1 - understand":
+Useful tools/methods for Design Thinking "phase 1 - understand":
 
 * Mindmapping
 * Charette
@@ -58,7 +58,7 @@ These are useful methods to understand the Design Challenge "Create a favorite a
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions!
+Every phase of Design Thinking is important to create useful solutions!
 
 
 ## Useful Resources for Own Searches
@@ -75,7 +75,7 @@ Every phase of design thinking is important to create useful solutions!
 ## Retrospective
 Please answer the following questions: 
 
-1. What is the reason of the design thinking phase "understand” and how does it work?
+1. What is the reason of the Design Thinking phase "understand” and how does it work?
 2. Which methods can be used in this phase?
 
 
