@@ -26,7 +26,7 @@ Summer Semester 22 | Learning Lab "Digital Technologies" |
 
 ## Solutions Steps
 
-In this Learning Lab, you will learn **Design Thinking**, applicable as an agile method for user-optimized and user-friendly development of innovative products or services, apps, analyses, software and project developments.
+In this Learning Lab you will learn **Design Thinking**, applicable as an agile method for user-optimized and user-friendly development of innovative products or services, apps, analyses, software and project developments.
 
 In the context of this Learning Lab, you are part of the **Design Thinking Team of your Student Council**.
 
