@@ -73,7 +73,7 @@ Team members can work with this methods to ideate for possible solutions. By our
 
 * Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and then choose the Mural Template named "Brainstorm & idea prioritization". You can find this template under this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
 
-* If you can't find the Mural Template on this link type in "Brainstorm & idea prioritization" in the field "Search".
+* If you can't find the Mural template on this link type in "Brainstorm & idea prioritization" in the field "Search".
 
 ![Search](/Phase_4_Ideate_Screenshots/01_Ideate_Search.PNG) 
 
@@ -152,11 +152,11 @@ You can move the squares by **"draging and pulling"** them.
 
 ![Save](/Phase_4_Ideate_Screenshots/09_Save_your_template_01.PNG)
 
-* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
+* Choose the format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
 
 ![Download](/Phase_4_Ideate_Screenshots/09_Save_your_template_02_DL.PNG)
 
-* You also have the option to share your created mural template by clicking on the "Share" Button.
+* You also have the option to share your created mural template by clicking on the "Share" button.
 
 ![Share](/Phase_4_Ideate_Screenshots/11_Share_yor_Template_01.PNG)
 
