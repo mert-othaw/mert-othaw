@@ -82,39 +82,39 @@ Fill in the template independently and, if necessary, use the provided example t
 
 
 
-**3.** **Working with Mural Template**
+**3.** **Working with Mural template**
 
-* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and afterwards choose your Mural template named "Feedback grid". You can find this template on this link <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>.
+* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and afterwards choose the Mural template named "Feedback grid". You can find this template on this link <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>.
 
-* In the field "Search" you can type in "Feedback grid" if you can't find the Mural Template on the link. Double tap on the "Feedback grid" to open this template.
+* In the field "Search" you can type in "Feedback grid" if you can't find the Mural template on the provided link. Double tap on the "Feedback grid" to open this template.
 
 ![Search](/Phase_6_Test_Screenshots/01_Test_Search.PNG) 
 
-* Choose "Create mural from this template" and in the following Pop-Up choose "Create mural".
+* Select "Create mural from this template" and then in the following Pop-Up choose "Create mural".
 
 ![Create](/Phase_6_Test_Screenshots/02_Create_Mural.PNG)
 
-**Before you start to fill the created mural template, here are some hints you can use.**
+**Before you start to fill in the created mural template, here are some useful hints.**
 
 1. Name your template
 
 ![Name](/Phase_6_Test_Screenshots/04_Name_your_template.PNG)
 
-2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar you can use to fill your template or visualize and document your respective "user" feedback.
+2. There are different widgets (Text, Shapes and connectors, Icons, Frameworks, Images, Content library, Files, Draw) on the left toolbar that can be used to fill in templates or visualize and document the respective "user" feedback.
 
 ![Widgets](/Phase_6_Test_Screenshots/05_Widgets.PNG)
 
-3. You can also set a timer in your mural, while working in your created mural template.
+3. A timer can be set in the mural, while working on the created mural template.
 
 ![Timer](/Phase_6_Test_Screenshots/06_Timer.PNG)
 
-4. Double click on the left mouse key if you want to write or type something into the Feedback grid template.
+4. Double click on the left mouse key if you want to write or type something into the "Feedback grid" template.
 
 
-**Start to work and fill this template**. 
+**Start to work and fill in this template**. 
 
 * As you can see, the feedback grid is divided into 4 fields. 
-For each of these 4 fields, there are also an additional 3 questions noted in the template to properly classify the user feedback into the fields.
+For each one of these 4 fields, there are also additional 3 questions noted in the template to properly classify the user feedback into the fields.
 >* On the top left you can see the positive feedback.
 >* On the top right you can see the negative feedback.
 >* At the bottom left to note are ideas, for example new ideas that have developed as a result of user feedback.
