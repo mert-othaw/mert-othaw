@@ -15,14 +15,14 @@ Author: Mert Ünal 		Date: 2022
 
 ## Objectives
 - You learn how Design Thinking is used
-- You learn what design thinking phase 6 - test means
+- You learn what Design Thinking "phase 6 - test" means
 
 ## Required Equipment
 - Notebook
 - Internet access
-- Paper and Pen
-- Mobile device with POP APP <https://marvelapp.com/pop>
-- Homepage of Marvel App (POP) <https://marvelapp.com>
+- Paper and pen
+- Mobile device with POP app <https://marvelapp.com/pop>
+- Homepage of Marvel app (POP) <https://marvelapp.com>
 - Homepage of Mural <https://www.mural.co/> 
 - Mural Template <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
 
@@ -33,40 +33,40 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 5 is passed, we can continue with the next Phase, which is called **Test**. This is the final phase of design thinking.
+After Phase 5 is passed the next phase follows which is called **test**. This is the final phase of Design Thinking.
 
 
-> Be careful on the running timer of your instructor. 
+> Be cautious of the running timer of your instructor. 
 
 
-**1.**  **Let’s check, what phase 6 - test is standing for in design thinking!**
+**1.**  **Let’s check, what "phase 6 - test" stands for in Design Thinking!**
 
-In the final phase "Testing", the prototypes developed by the DT team are tested together on the users. 
-With the direct feedback of the user, it is possible to find the best possible solutions for the user. 
-Since all phases in the Design Thinking process are iteratively connected, it is possible to refer back to previous phases or, if necessary, to go through all phases again with new knowledge gained from the testing process and user feedback. 
-Therefore, sometimes feedback is required to implement efficient optimizations and adjustments. 
+In the final phase "testing", the prototypes developed by the DT team are tested together on the users. 
+With the direct feedback of the user, it is possible to find the most suitable solutions for the user. 
+Since all phases in the Design Thinking process are iteratively connected, it is possible to refer back to previous phases or, if necessary, to go through all phases again with new knowledge gained from the testing process and the user feedback. 
+Therefore, sometimes the feedback is required to implement efficient optimizations and adjustments. 
 Once the "test phase" has been completed, the DT process is also considered complete. 
 
 
->In this phase, in our design thinking team of 2 students, the students take turns in their roles as a "developer" and "user" and note their feedback in **1 Template.**
+>In this phase, in our Design Thinking teams of 2 students, the students take turns in their roles as a "developer" and "user" and note their feedback in **1 template.**
 
 
 
-**2.**  **Working with useful design thinking tools for testing in phase 6**
+**2.**  **Working with useful Design Thinking tools for testing in phase 6**
 
-In **"Phase 6 - Test"** (final phase), the Feedback grid technique on the selected Mural template **"Feedback grid"** on the homepage of Mural is useful for documenting the respective feedback on the prototypes by a interview of the user and subsequently making possible adjustments of the prototypes.
+In **"Phase 6 - Test"** (final phase), the Feedback grid technique on the selected Mural template **"Feedback grid"** on the homepage of Mural is useful for documenting the respective feedback on the prototypes with an interview of the user and subsequently making possible adjustments of the prototypes.
 
 
 >**For documenting the feedback, students take turns in their roles as a "developer" and "user".**
->* **Student 1** with the role as **developer** interviews **Student 2** with the role as an **user**. 
->* While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as a user on the "Feedback grid" Template of Mural.
->* After that, the two roles are swapped (max. timebox 20 min).
->* **Student 2** assumes the role as **developer** and interviews **Student 1** with the role as an **user**. 
->* While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as a user on the **same** "Feedback grid" Template of Mural.
+>* **Student 1** in the role as a **developer** interviews the **Student 2** with the role as an **user**. 
+>* While **Student 1** is interviewing **Student 2**, he should document the respective feedback of **Student 2** as an user on the "Feedback grid" template of Mural.
+>* After that, the two roles are to be swapped (max. timebox 20 min).
+>* **Student 2** assumes the role as a **developer** and interviews the **Student 1** with the role as an **user**. 
+>* While **Student 2** is interviewing **Student 1**, he should document the respective feedback of **Student 1** as an user on the **same** "Feedback grid" template of Mural.
 
 
 
-Useful tools/methods for design thinking phase 6 - test:
+Useful tools/methods for Design Thinking "phase 6 - test":
 
 * Feedback grid
 * Qualitative validation
@@ -75,16 +75,16 @@ Useful tools/methods for design thinking phase 6 - test:
 
 
 
-Team members can work with different methods to **test** their prototype with the user. It depends on the prototype which method is the most suitable.
-By our design challenge "Create a favorite app for students" for testing we will use the mentioned Feedback grid technique with the selected **"Feedbackgrid" Template of Mural**: <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> **on the homepage of Mural** - <https://www.mural.co/>.
+Team members can work with different methods to **test** their prototype together with the user. Which method is the most suitable one depends on the prototype. 
+In our Design Challenge "Create a favorite app for students" we will use the mentioned Feedback grid technique for testing, with the selected **"Feedbackgrid" template of Mural**: <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> **on the homepage of Mural** - <https://www.mural.co/>.
 
-Fill in the template independently and, if necessary, use the provided example template (**"Feedbackgrid.PDF"**) as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you could have a look at some tips for the interviews or questionings in the provided file **"Interviewing.PDF"**.).
+Fill in the template independently and, if necessary, use the provided example template (**"Feedbackgrid.PDF"**) as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you can have a look at these tips for the interviews or questionings in the provided file **"Interviewing.PDF"**.).
 
 
 
 **3.** **Working with Mural Template**
 
-* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and than choose your Mural Template named "Feedback grid". You can find this template on this link <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>.
+* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and afterwards choose your Mural template named "Feedback grid". You can find this template on this link <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>.
 
 * In the field "Search" you can type in "Feedback grid" if you can't find the Mural Template on the link. Double tap on the "Feedback grid" to open this template.
 
