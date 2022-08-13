@@ -117,35 +117,35 @@ Fill in the template independently and, if necessary, use the provided example t
 For each one of these 4 fields, there are also additional 3 questions noted in the template to properly classify the user's feedback into the fields.
 >* On the top left you can place the positive feedback.
 >* On the top right you can place the negative feedback.
->* At the bottom left to note are ideas, for example new ideas that have developed as a result of user feedback.
->* In the field on the bottom right are unanswered questions.
+>* At the bottom left you can note new ideas, for example ones that have been developed as a result of the user's feedback.
+>* In the field on the bottom right you can place unanswered questions.
 
 ![Fillin](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_01.PNG)
 
-* At first **Student 1 (Developer) interviews Student 2 (User) and documents the respective feedback** to the created prototype "Favorite app for students" from the previous phase 5 - prototype on this template. Double click on the left mouse key to write it down into the feedback grid template.
+* At first **Student 1 (Developer) interviews the Student 2 (User) and afterwards the developer documents the respective feedback** regarding the created prototype "The favorite app for students" from the previous phase. Double click on the left mouse key to write into the feedback grid template.
 
->* After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are swapped.**
+>* After Student 1 (Developer) is finished with interviewing and documenting the feedback of Student 2 (User), **the two roles are to be swapped.**
 
-* Then **Student 2 (Developer) interviews Student 1 (User) and documents the respective feedback** too on the **same** feedback grid template.
+* Then **Student 2 (Developer) interviews Student 1 (User) and afterwards developer documents the respective feedback** as well into the **same** feedback grid template.
 
 ![Fillin2](/Phase_6_Test_Screenshots/03_Fill_in_Feedback_02.PNG)
 
 
-**If you're finished don't forget to save your mural template.**
+**When you're finished don't forget to save the mural template.**
 
 * Click on the icon shown in the following picture to save and download your template.
 
 ![Save](/Phase_6_Test_Screenshots/07_Save_01.PNG)
 
-* Choose Format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
+* Choose the format "PDF" and choose "All content" to download the entire created mural template as a PDF.File on your notebook/pc.
 
 ![Download](/Phase_6_Test_Screenshots/07_Save_02.PNG)
 
-* You also have to option to share your created mural template if you click on the "Share" Button and copy the link of the POP-UP window if you want to share your created mural template as shown in the following picuture.
+* You also have the option to share your created mural template by clicking on the "Share" button and then copying the link of the POP-UP window.
 
 ![Share](/Phase_6_Test_Screenshots/08_Share_and_Copy.PNG)
 
-**If everything is saved, finish working in this template with going back to dashboard with the following button shown in the following picture.**
+**If everything is saved, you can finish your work in this template by going back to the dashboard with the button shown in the following picture.**
 
 ![Finish](/Phase_6_Test_Screenshots/09_Finish_Dashboard.PNG)
 
@@ -154,15 +154,15 @@ For each one of these 4 fields, there are also additional 3 questions noted in t
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions! Don't forget switching roles as "developer" and "user" after 20 minutes to stay in our timebox of 45 minutes for this phase.
+Every phase of Design Thinking is important to create useful solutions! Don't forget to switch roles as "developer" and "user" after 20 minutes to stay in the available timebox of 45 minutes for this phase.
 
 
 ## Useful Resources for Own Searches
 
 - Six Phases of Design Thinking: <https://hpi.de/en/school-of-design-thinking/design-thinking/background/design-thinking-process.html>
-- What is a feedback grid and how to use it? <https://designthinking-methods.de/en/5Testen/testCaptureGrid.html> <https://conceptboard.com/blog/feedback-capture-grid-template/> <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
-- What are User tests and how to use it? <https://designthinking-methods.de/en/5Testen/nutzertests.html>
-- What is mean with (qualitative) validation and how to use it? <https://www.boardofinnovation.com/guides/validation-guide/>
+- What is a feedback grid and how is it used? <https://designthinking-methods.de/en/5Testen/testCaptureGrid.html> <https://conceptboard.com/blog/feedback-capture-grid-template/> <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448>
+- What are user tests and how are they used? <https://designthinking-methods.de/en/5Testen/nutzertests.html>
+- What is (qualitative) validation and how is it used? <https://www.boardofinnovation.com/guides/validation-guide/>
 
 
 
@@ -173,6 +173,6 @@ Every phase of design thinking is important to create useful solutions! Don't fo
 ## Retrospective
 Please answer the following questions: 
 
-1. What is the reason of the design thinking phase "test” and how does it work?
-2. Which methods you can use in this phase?
+1. What is the reason of the Design Thinking phase "test” and how does it work?
+2. Which methods can you use in this phase?
 3. Do you think feedback grid techniques are useful for testing?
