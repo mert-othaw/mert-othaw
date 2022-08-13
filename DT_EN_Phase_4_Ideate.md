@@ -53,7 +53,7 @@ After the extensive collection of ideas, these ideas should be evaluated and pri
 
 In **"phase 4 - ideate"** ideas are generated, prioritized and noted **together in a team of 2** using a brainstorming technique with the **Mural template "Brainstorm & idea prioritization": <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca> on the homepage of Mural - <https://www.mural.co/>**. 
 
-Fill in the template independently using the provided **Example Template ("Ideen generieren und priorisieren.pdf")** as a guide if necessary.
+Fill in the template independently using the provided **Example Template ("Brainstorm_and_idea_prioritization_example.PDF")** as a guide if necessary.
 The template should then be saved as a PDF.file on the notebook.
 
 
