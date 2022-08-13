@@ -37,7 +37,7 @@ After Phase 4 is passed the next phase follows which is called **Prototype**.
 > Be cautious of the running timer of your instructor. 
 
 
-**1.**  **Let’s check, what "phase 5 - prototype" stands for in design thinking!**
+**1.**  **Let’s check, what "phase 5 - prototype" stands for in Design Thinking!**
 
 In the fifth phase of the DT process, the selected ideas or solutions are to be visualized or made understandable for the user. 
 This is done by developing a so-called prototype. In this way ideas take shape and can be better optimized and adapted to the user. 
@@ -101,7 +101,7 @@ Therefore, you can view and present the app you created on the homepage also on 
 
 ![Press](/Phase_5_Prototype_Screenshots/02_Press_Play.PNG)
 
-* This is the first page of my prototype created on the homepage of marvel and an example of how it looks like on the Iphone.
+* This is the first page of my prototype created on the homepage of Marvel and an example of how it looks like on the Iphone.
 
 ![Prototype](/Phase_5_Prototype_Screenshots/01_Prototype_on_Iphone.PNG)
 
