@@ -16,7 +16,7 @@ The preparation for the Learning Lab "Design Thinking" consists of
   * Visit the homepage of Classroomscreen https://classroomscreen.com/ to organize and monitor the Design Thinking process
   * On the homepage, you can select the "Launch now" option (without registration) and get started right away or select the "Or sign up for free" option (with registration). 
 
-The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid design thinking module: 
+The following "widgets" are recommendations for the screen setup for a successful implementation of the hybrid Design Thinking module: 
 
 - **Clock widget** for displaying the current time.
 - **Timer widget** for keeping up with the timebox and the respective techniques of the different phases of Design Thinking.
@@ -26,7 +26,7 @@ The following "widgets" are recommendations for the screen setup for a successfu
 - **Poll widget** for possible polls (current status etc.).
 
 >Additional information: 
->The browser-based software gitlab <https://about.gitlab.com/> is needed if the design thinking stream is uploaded on the homepage <https://www.ll4dt.org/>.
+>The browser-based software gitlab <https://about.gitlab.com/> is needed if the Design Thinking stream is uploaded on the homepage <https://www.ll4dt.org/>.
 >If not, you can open these files in the github link <https://github.com/mert-othaw/mert-othaw>. 
 
 
