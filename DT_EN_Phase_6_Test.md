@@ -33,7 +33,7 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 5 is passed the next phase follows which is called **test**. This is the final phase of Design Thinking.
+After phase 5 is passed the next phase follows which is called **test**. This is the final phase of Design Thinking.
 
 
 > Be cautious of the running timer of your instructor. 
