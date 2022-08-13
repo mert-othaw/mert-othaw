@@ -45,7 +45,7 @@ Play/Share video or PowerPoint to provide an **overview and a basic understandin
 **Announcement of lunch break of 30 minutes**.
 
 ### Step 8
-**Phase 4 - Ideate:** using a brainstorming technique; have the MURAL template (www.mural.co) labeled as **"Brainstorm & idea prioritization "** (see example: "Ideen generieren und priorisieren.pdf") aside and **start poll with poll widget in Classroomscreen** to check if the **"Brainstorm & idea prioritization" template from Mural** is available for the students. **Run timer widget of 60 minutes** again on the classroom screen.
+**Phase 4 - Ideate:** using a brainstorming technique; have the MURAL template (www.mural.co) labeled as **"Brainstorm & idea prioritization "** (see example: "Brainstorm_and_idea_prioritization_example.PDF") aside and **start poll with poll widget in Classroomscreen** to check if the **"Brainstorm & idea prioritization" template from Mural** is available for the students. **Run timer widget of 60 minutes** again on the classroom screen.
 
 ### Step 9
 **Phase 5 - Prototype:** Students will design and save their prototype on their mobile device using Marvel's POP app (or the homepage of Marvel directly). **Start survey using Poll widget in Classroomscreen** to check if the app works for students, if it doesn't, the prototype should be displayed on a piece of paper. **Run timer widget of 60 minutes** again on classroom screen.
