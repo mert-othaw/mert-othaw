@@ -28,13 +28,13 @@ Author: Mert Ünal 		Date: 2022
 
 ## Solutions Steps
 
-After Phase 1 has passed the second phase follows which is called **Observe**. 
+After phase 1 has passed the second phase follows which is called **Observe**. 
 
 
 > Be cautious of the running timer shown by your instructor. 
 
 
-**1.**  **Let’s check what "phase 2 - observe" is standing for in design thinking!**
+**1.**  **Let’s check what "phase 2 - observe" is standing for in Design Thinking!**
 
 The second phase, "Observe", is mainly about observing the users involved. The aim is for you as team members to gain expert knowledge for the Design Challenge. For this purpose existing solutions are first analyzed and critically scrutinized. Afterwards, typical users in relevant situations are predefined, observed and additionally **interviewed** personally. 
 This refines the common expertise for the task to be solved, as well as observing and analyzing occurring problems and behaviors of the users. 
@@ -58,7 +58,7 @@ Team members can work with this methods to gain common expertise and empathize i
 
 ## Hints
 
-Every phase of design thinking is important to create useful solutions!
+Every phase of Design Thinking is important to create useful solutions!
 
 
 ## Useful Resources for Own Searches
