@@ -69,9 +69,9 @@ Useful tools/methods for Design Thinking "phase 4 - ideate":
 
 Team members can work with this methods to ideate for possible solutions. By our Design Challenge "create a favorite app for students" the "brainstorming" method is the most suitable one to create ideas, note and prioritize the ideas in the selected Mural Template. Furthermore "brainstorming" is one of the most established method for generating ideas.
 
-**3.**  **Working with the Mural-Template**
+**3.**  **Working with the Mural template**
 
-* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and then choose the Mural Template named "Brainstorm & idea prioritization". You can find this template under this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
+* Click "Sign in" on the homepage of Mural <https://www.mural.co/> and log in into your created Mural account and then choose the Mural template named "Brainstorm & idea prioritization". You can find this template under this link <https://app.mural.co/template/94238f11-00b5-42c7-8374-b3dd7c7c0b76/ae150568-42bf-46cc-b205-2f4ba1bdb4ca>.
 
 * If you can't find the Mural template on this link type in "Brainstorm & idea prioritization" in the field "Search".
 
@@ -198,5 +198,5 @@ Design Thinking Phases 4-6: Solve the problem or create solutions for the proble
 ## Retrospective
 Please answer the following questions: 
 
-1. What is the reason of the design thinking phase "ideate” and how does it work?
+1. What is the reason of the Design Thinking phase "ideate” and how does it work?
 2. Which methods can be used in this phase?
