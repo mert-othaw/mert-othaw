@@ -34,7 +34,7 @@ After the Design Challenge is clear, we can now start with the first phase which
 > Be cautious of the running timer shown by your instructor. 
 
 
-**1.**  **Let’s check what "phase 1 - understand" stands for in design thinking!**
+**1.**  **Let’s check what "phase 1 - understand" stands for in Design Thinking!**
 
 In relation to the Design Challenge, a common understanding should be created within your team. The focus is on the user and the definition of the target group. You as a Design Thinker should exchange views on all possible perspectives within the team in order to internalize the problem of common student apps exactly!
 
