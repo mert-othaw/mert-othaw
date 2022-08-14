@@ -78,7 +78,7 @@ Useful tools/methods for Design Thinking "phase 6 - test":
 Team members can work with different methods to **test** their prototype together with the user. Which method is the most suitable one depends on the prototype. 
 In our Design Challenge "Create a favorite app for students" we will use the mentioned Feedback grid technique for testing, with the selected **"Feedbackgrid" template of Mural**: <https://app.mural.co/t/designthinking3783/m/designthinking3783/1660144893937/893a9db441a6b03c7ec4f344c7e7cebb57d01b8c?sender=u321e8a21ffefe6df47a15448> **on the homepage of Mural** - <https://www.mural.co/>.
 
-Fill in the template independently and, if necessary, use the provided example template (**"Feedbackgrid.PDF"**) as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you can have a look at these tips for the interviews or questionings in the provided file **"Interviewing.PDF"**.).
+Fill in the template independently and, if necessary, use the provided example template (**"Feedback_grid_example.PDF"**) as a guide. Afterwards, the template should be saved as a pdf. file on the PC to record the results. (As an additional info or help if needed, you can have a look at these tips for the interviews or questionings in the provided file **"Interviewing.PDF"**.).
 
 
 
