@@ -54,7 +54,7 @@ Play/Share video or PowerPoint to provide an **overview and a basic understandin
 **Announcement of a coffee break of 15 minutes**.
 
 ### Step 11
-**Phase 6 - Test:** **using the feedbackgrid;** have aside the Mural template (www.mural.co) labeled as **"Feedbackgrid "** (see example: **"Feedbackgrid.pdf "**) and **start survey with poll widget in classroomscreen,** to check if the **"Feedbackgrid" template from Mural** is available for students. **Run timer widget of 45 minutes** again on classroom screen.
+**Phase 6 - Test:** **using the feedbackgrid;** have aside the Mural template (www.mural.co) labeled as **"Feedbackgrid "** (see example: **"Feedback_grid_example.PDF"**) and **start survey with poll widget in classroomscreen,** to check if the **"Feedbackgrid" template from Mural** is available for students. **Run timer widget of 45 minutes** again on classroom screen.
 
 ### Step 12
 **Presentation of the results (or the designed prototypes) by the students groups** within the available timebox of 3-5 minutes per group (team of 2). **Start the stopwatch widget** per group on classroom screen to stay within the maximum available time of 5 minutes.
