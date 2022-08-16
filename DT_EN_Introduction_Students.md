@@ -47,7 +47,8 @@ Download Marvel's POP App (Prototyping on Paper App) to your mobile device using
 Depending on your operating system, select Android (Get it on Google Play) or Apple (Download on the App Store). You will need this app to design your prototype in "Phase 5 - Prototype".
 
 ### Step 5
-After you are fully equipped with the aquired softwares, begin to learn the theory of each phase of Design Thinking with the materials provided (**Überblick_Design_Thinking.PDF**). 
+After you are fully equipped with the aquired softwares, watch the following video shown by the instructor (<https://www.youtube.com/watch?v=mZWMj_H8Iqw>). 
+
 **Pay attention to the time box displayed on the classroom screen by the instructor!**
 
 
