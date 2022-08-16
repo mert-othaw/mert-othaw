@@ -27,7 +27,7 @@ Author: Mert Ünal 		Date: 2022
 **Welcome students** with an announcement of the Design Challenge: "Design a favorite app for students or for you as a student" and forming the groups (teams of 2). 
 
 ### Step 2
-Play/Share video or PowerPoint to provide an **overview and a basic understanding of Design Thinking** (Design Challenge + 6 Phases of Design Thinking). 
+Share this video <https://www.youtube.com/watch?v=mZWMj_H8Iqw> and watch it with the Students to provide an **overview and a basic understanding of Design Thinking**. 
 
 ### Step 3
 **Phase 1 - Understand:** Share classroom screen and set up **timer widget of 30 minutes** on screen and let it run to help students keep track of time.
